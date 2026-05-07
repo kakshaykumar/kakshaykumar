@@ -1,10 +1,14 @@
 # Hi There :) - I'm Akshaykumar 👋
 
-**Cybersecurity Graduate Student · Cybersecurity SME Intern · Graduate Teaching Assistant · Former Network Security TAC Engineer**
+**Cybersecurity Graduate Student · Cybersecurity SME Intern · Graduate Teaching Assistant · Former Network Security TAC Engineer  ·  Actively Looking for Full-time Opportunities**
 
-I spent three years as a Network Security TAC Engineer at Movate, supporting enterprise HPE-Aruba deployments, troubleshooting production incidents, analyzing security logs and events using NMS and SIEM tools like HPE Intelligent Management Center, Splunk, SolarWinds, and Aruba Central. Running VAPT cycles with Qualys and Nessus, hardening access controls, and securing enterprise environments running Comware, Aruba ProCurve, ArubaOS CX, and Aruba Central. Daily hands-on packet analysis and traffic diagnosis with Wireshark and NMap — often replicating customer issues in simulated lab environments before pushing fixes to live networks.
+> 3 years as a Network Security TAC Engineer → MS AIT in Cybersecurity @ GMU → MSSP Cybersecurity SME Intern → Graduate Teaching Assistant
 
-That operational background pushed me toward Cybersecurity formally. I left Movate to pursue an Master's in Cybersecurity at George Mason University. During the program I worked within Comtech LLC's MSSP practice as a Cybersecurity SME in an Intern position — supporting client security engagements end-to-end, from whitepapers and proposals through threat assessments and managed service delivery. Now I'm teaching Information Security Fundamentals as a Graduate Teaching Assistant while finishing the degree.
+I spent three years as a Network Security TAC Engineer at Movate, supporting enterprise HPE-Aruba deployments, troubleshooting production incidents, analyzing security logs and events using NMS and SIEM tools like HPE Intelligent Management Center, Splunk, SolarWinds, and Aruba Central. 
+
+Running VAPT cycles with Qualys and Nessus, hardening access controls, and securing enterprise environments running Comware, Aruba ProCurve, ArubaOS CX, and Aruba Central. Daily hands-on packet analysis and traffic diagnosis with Wireshark and Nmap — often replicating customer issues in simulated lab environments before pushing fixes to live networks.
+
+That operational background pushed me toward Cybersecurity formally. I left Movate to pursue a Master's in Cybersecurity at George Mason University. During the program I worked within Comtech LLC's MSSP practice as a Cybersecurity SME Intern — supporting client security engagements end-to-end, from whitepapers and proposals through threat assessments and managed service delivery. Now I'm teaching Information Security Fundamentals as a Graduate Teaching Assistant while finishing the degree.
 
 ---
 
@@ -13,7 +17,7 @@ That operational background pushed me toward Cybersecurity formally. I left Mova
 - 🎓 **MS Applied Information Technology (Cybersecurity)** @ George Mason University — GPA 3.92 — Expected May 2026
 - 👨‍🏫 **Graduate Teaching Assistant** — IT 223: Information Security Fundamentals @ GMU *(Aug 2025 – Present)*
 - ✍️ Writing CTF writeups on [Medium](https://medium.com/@akshaykumar_90336) — OverTheWire Natas series
-- 🎯 Actively working on Hands-on Projects and CompTia Security+ Certification
+- 🎯 Actively working on hands-on Projects and CompTIA Security+ Certification
 - 🔬 Building a multi-platform cloud security assessment (AWS + Azure + GCP)
 
 ---
@@ -31,7 +35,7 @@ Supporting IT 223 (Information Security Fundamentals). Conduct weekly office hou
 Worked within Comtech's MSSP practice as a technical security resource across client engagements in healthcare and US State/Local Government — covering the full managed security service lifecycle from client outreach and requirement gathering through threat assessments, gap analyses, and service delivery.
 
 - Conducted threat assessments for client healthcare IT infrastructure using **STRIDE and DREAD** frameworks — identifying vulnerabilities, prioritizing risks, and producing client-facing reports
-- Simulated and validated managed threat detection and incident response workflows
+- Initiated and configured a Home SOC Lab environment to simulate threat detection and incident response workflows — used to demonstrate MDR capabilities and validate security monitoring approaches for client engagements
 - Authored technical whitepapers and supported cybersecurity bid/proposal development for government and healthcare contracts
 - Developed a Managed Services Package covering network and web security tooling, gap assessment methodology, and service delivery checklists
 - Evaluated security solutions against client requirements and budgets; briefed senior management on emerging tools and market trends relevant to Comtech's service portfolio
@@ -42,7 +46,7 @@ Worked within Comtech's MSSP practice as a technical security resource across cl
 **🌐 Network Security TAC Engineer (L1 → L2 Escalation Engineer) — Network Security & Infrastructure Operations**
 **Movate Technologies / HPE-Aruba Networking** *(Sep 2021 – Jul 2024)*
 
-Three years supporting enterprise HPE-Aruba environments — HPE Comware, ProCurve, ArubaOS CX, Aruba Central, and HPE IMC — with a consistent security operations component alongside the networking work. Operated daily with SolarWinds, Splunk (log aggregation), Qualys and Nessus (VAPT cycles), Wireshark, and NMap on live customer networks. Handled OSPF, BGP, MPLS, DHCP, and STP troubleshooting including Cisco and Arista cross-platform incidents. Implemented and validated 802.1X, RADIUS, and TACACS+ access controls for enterprise customers. Progressed from L1 to L2 escalation engineer and trained junior team members.
+Three years supporting enterprise HPE-Aruba environments — HPE Comware, ProCurve, ArubaOS CX, Aruba Central, and HPE IMC — with a consistent security operations component alongside the networking work. Operated daily with SolarWinds, Splunk (log aggregation), Qualys and Nessus (VAPT cycles), Wireshark, and Nmap on live customer networks. Handled OSPF, BGP, MPLS, DHCP, and STP troubleshooting including Cisco and Arista cross-platform incidents. Implemented and validated 802.1X, RADIUS, and TACACS+ access controls for enterprise customers. Progressed from L1 to L2 escalation engineer and trained junior team members.
 
 ---
 
@@ -63,7 +67,7 @@ Academic hands-on projects and assignments:
 - 🔒 Secure Software Development — 6 hands-on security labs
 - 📊 Information: Representation, Processing and Visualization -
 Understanding Victim Demographics for Violence Reduction in Chicago
-- 🧮 Data Structures & Algorithms — Shortest Path Computation for Self-Driving Cars Using Djikstra and A* Algorithms
+- 🧮 Data Structures & Algorithms — Shortest Path Computation for Self-Driving Cars Using Dijkstra and A* Algorithms
 
 ---
 
@@ -74,7 +78,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 `Microsoft Defender` `SOAR` `Windows Event Viewer` `Windows Registry`
  
 **Threat Detection & Analysis**
-`Nessus` `Qualys` `Metasploit` `Wireshark` `NMap` `Autopsy`
+`Nessus` `Qualys` `Metasploit` `Wireshark` `Nmap` `Autopsy`
  
 **Frameworks & Standards**
 `MITRE ATT&CK` `NIST Incident Response Lifecycle` `OWASP Top 10`
@@ -83,9 +87,8 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 **Cloud Security**
 `AWS` `Microsoft Azure` `Google Cloud Platform`
 `GuardDuty` `CloudTrail` `AWS Security Hub`
-`Microsoft Defender for Cloud` `Microsoft Sentinel`
-`Security Command Center` `Cloud Logging`
-`IAM` `VPC/NSG`
+`Defender for Cloud` `Security Command Center` 
+`Cloud Logging` `VPC/NSG`
  
 **Networking & Infrastructure**
 `HPE Comware` `ArubaOS CX` `Aruba Central` `HPE IMC` `ProCurve`
@@ -97,11 +100,8 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 `Active Directory` `Azure Entra ID` `IAM` `RBAC`
  
 **Operating Systems & Scripting**
-`Linux Distros` `Windows`
-`PowerShell` `Python` `Java` `SQL` `Bash`
- 
-**Version Control**
-`Git` `GitHub`
+`Linux Distros` `Windows` `PowerShell` 
+`Python` `Java` `SQL` `Bash` `Git` `GitHub`
 
 ---
 
@@ -113,21 +113,23 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 - 🛡️ **Fortinet Certified Associate Cybersecurity (FCA)**
 - 🛡️ **Fortinet Certified Fundamentals Cybersecurity (FCF)**
 - 🔒 **TryHackMe Pre-Security Certificate**
-- 🎯 **CompTia Security+** — In progress
+- 🎯 **CompTIA Security+** — In progress
 
 ---
 
 ## Background
 
-I started in Electronics and Communications Engineering at Jeppiaar Maamallan Engineering College — and by my third year realized I needed to find something I'd actually care about long-term. After exploring software development, embedded systems, and web dev, - networking became the entry point into security. 
+`🎓 ECE` → `📡 CCNA` → `🌐 HPE-Aruba TAC (3 yrs · L1→L2)` → `🔐 MS Cybersecurity @ GMU` → `🛡️ Comtech MSSP Intern` → `👨‍🏫 Graduate TA`
+
+I started in Electronics and Communications Engineering at Jeppiaar Maamallan Engineering College — and by my third year realized I needed to find something I'd actually care about long-term. After exploring software development, embedded systems, and web dev - networking became the entry point into security. 
 
 **My Logic: Understand how everything connects, then learn how to Defend it.**
 
-That led to CCNA, then three years at Movate on the HPE-Aruba TAC team. Real enterprise networks, real incidents, real customers. The security component was there from the start — VAPT work, access control hardening, log analysis in Splunk, flagging misconfigurations. Started mentoring junior engineers after about a year, promoted as L2 escalation engineer after two. Once networking had given me what I came for — a deep operational understanding of how infrastructure actually works — I made the move to George Mason to formalize the security side.
+That led to CCNA, then three years at Movate on the HPE-Aruba TAC team. Real enterprise networks, real incidents, real customers. The security component was there from the start — VAPT work, access control hardening, log analysis in Splunk, flagging misconfigurations. Started mentoring junior engineers after about a year, promoted to L2 escalation engineer after two. Once networking had given me what I came for — a deep operational understanding of how infrastructure actually works — I made the move to George Mason to formalize the security side.
 
-**More Security, moderate Networking — but networking continues to strengthen my understanding of cybersecurity.**
+**Networking continuing to strengthen my security perspective.**
 
-"Since then: an MSSP internship at Comtech where I worked the full security engagement lifecycle from proposals to delivery, a teaching role supporting undergraduates through their first real security coursework, and a growing portfolio of hands-on security projects spanning network security, cloud security, IAM, and offensive security techniques."
+Since then: an MSSP internship at Comtech where I worked the full security engagement lifecycle from proposals to delivery, a teaching role supporting undergraduates through their first real security coursework, and a growing portfolio of hands-on security projects spanning network security, cloud security, IAM, and offensive security techniques.
 
 ---
 
