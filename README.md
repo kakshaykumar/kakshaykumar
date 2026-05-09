@@ -78,7 +78,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 `Microsoft Defender` `SOAR` `Windows Event Viewer` `Windows Registry`
  
 **Threat Detection & Analysis**
-`Nessus` `Qualys` `Metasploit` `Wireshark` `Nmap` `Autopsy`
+`Nessus` `Qualys` `Metasploit` `Wireshark` `Nmap` `Autopsy` `Burp Suite`
  
 **Frameworks & Standards**
 `MITRE ATT&CK` `NIST Incident Response Lifecycle` `OWASP Top 10`
