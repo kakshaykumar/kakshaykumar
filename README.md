@@ -14,7 +14,7 @@ That operational background pushed me toward Cybersecurity formally. I left Mova
 
 ## Currently
 
-- 🎓 **MS Applied Information Technology (Cybersecurity)** @ George Mason University — GPA 3.92 — Expected May 2026
+- 🎓 **MS Applied Information Technology (Cybersecurity)** @ George Mason University — GPA 3.766 — Expected May 2026
 - 👨‍🏫 **Graduate Teaching Assistant** — IT 223: Information Security Fundamentals @ GMU *(Aug 2025 – Present)*
 - ✍️ Writing CTF writeups on [Medium](https://medium.com/@akshaykumar_90336) — OverTheWire Natas series
 - 🎯 Actively working on hands-on Projects and CompTIA Security+ Certification
@@ -62,7 +62,7 @@ Hands-on projects from coursework and independent research — real tools, real 
 | [🔍 malware-progression-detection](https://github.com/kakshaykumar/malware-progression-detection) | Research: malware evolution from viruses to APTs, hybrid detection framework (signature + behavior + ML) | Network & Systems Security |
 | [🛡️ identity-theft-research](https://github.com/kakshaykumar/identity-theft-research) | Research: Equifax, Cambridge Analytica, T-Mobile case studies — IAM controls, MFA strategy, attack vectors | Identity & Access Management |
 
-**Coming soon:**
+**In Progress(artifacts will be published):**
 Academic hands-on projects and assignments:
 - 🔒 Secure Software Development — 6 hands-on security labs
 - 📊 Information: Representation, Processing and Visualization -
