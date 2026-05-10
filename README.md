@@ -145,7 +145,7 @@ CTF walkthrough articles on Medium:
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshaykumar_Kathirvelu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshaykumar-kathirvelu-5a70921a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshaykumar_Kathirvelu-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/akshaykumar-kathirvelu)
 [![Medium](https://img.shields.io/badge/Medium-CTF_Writeups-000000?style=flat&logo=medium)](https://medium.com/@akshaykumar_90336)
 [![Email](https://img.shields.io/badge/GMU-akathirv%40gmu.edu-D14836?style=flat&logo=gmail)](mailto:akathirv@gmu.edu)
 [![Email](https://img.shields.io/badge/Personal-kakshaykumark%40gmail.com-D14836?style=flat&logo=gmail)](mailto:kakshaykumark@gmail.com)
