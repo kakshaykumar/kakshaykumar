@@ -119,7 +119,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 
 ## Background
 
-`🎓 ECE` → `📡 CCNA` → `🌐 HPE-Aruba TAC (3 yrs · L1→L2)` → `🔐 MS Cybersecurity @ GMU` → `🛡️ Comtech MSSP Intern` → `👨‍🏫 Graduate TA`
+`🎓 ECE` → `📡 CCNA` → `🌐 HPE-Aruba Network Security TAC (3 yrs · L1→L2)` → `🔐 MS Cybersecurity @ GMU` → `🛡️ MSSP Cybersecurity SME Intern` → `👨‍🏫 Graduate TA`
 
 I started in Electronics and Communications Engineering at Jeppiaar Maamallan Engineering College — and by my third year realized I needed to find something I'd actually care about long-term. After exploring software development, embedded systems, and web dev - networking became the entry point into security. 
 
