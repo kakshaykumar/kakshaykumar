@@ -2,7 +2,7 @@
 
 **Cybersecurity Graduate Student · Cybersecurity SME Intern · Graduate Teaching Assistant · Former Network Security TAC Engineer  ·  Actively Looking for Full-time Opportunities**
 
-> 3 years as a Network Security TAC Engineer → MS AIT in Cybersecurity @ GMU → MSSP Cybersecurity SME Intern → Graduate Teaching Assistant
+> 3 years enterprise HPE-Aruba network security experience → MS AIT in Cybersecurity @ GMU → MSSP Cybersecurity SME Intern → Graduate Teaching Assistant
 
 I spent three years as a Network Security TAC Engineer at Movate, supporting enterprise HPE-Aruba deployments, troubleshooting production incidents, analyzing security logs and events using NMS and SIEM tools like HPE Intelligent Management Center, Splunk, SolarWinds, and Aruba Central. 
 
@@ -15,7 +15,7 @@ That operational background pushed me toward Cybersecurity formally. I left Mova
 ## Currently
 
 - 🎓 **MS Applied Information Technology (Cybersecurity)** @ George Mason University — GPA 3.766 — Expected May 2026
-- 👨‍🏫 **Graduate Teaching Assistant** — IT 223: Information Security Fundamentals @ GMU *(Aug 2025 – Present)*
+- 👨‍🏫 **Graduate Teaching Assistant** — IT 223: Information Security Fundamentals @ GMU *(Aug 2025 – May 2026)*
 - ✍️ Writing CTF writeups on [Medium](https://medium.com/@akshaykumar_90336) — OverTheWire Natas series
 - 🎯 Actively working on hands-on Projects and CompTIA Security+ Certification
 - 🔬 Building a multi-platform cloud security assessment (AWS + Azure + GCP)
@@ -24,13 +24,13 @@ That operational background pushed me toward Cybersecurity formally. I left Mova
 
 ## Experience
 
-**👨‍🏫 Graduate Teaching Assistant — George Mason University** *(Aug 2025 – Present)*
+**👨‍🏫 Graduate Teaching Assistant — George Mason University** *(Aug 2025 – May 2026)*
 
-Supporting IT 223 (Information Security Fundamentals). Conduct weekly office hours, guide students through ZyBooks hands-on labs (malware analysis, email phishing, security basics), grade assignments with detailed feedback, and support 100+ students via email and office sessions throughout the semester.
+Supporting IT 223 (Information Security). Conduct weekly office hours, guide students through ZyBooks hands-on labs (malware analysis, email phishing, security basics), grade assignments with detailed feedback, and support 100+ students via email and office sessions throughout the semester.
 
 ---
 
-**🛡️ Cybersecurity SME Intern — Comtech LLC, Reston VA** *(May 2025 – Aug 2025)*
+**🛡️ Cybersecurity SME Intern (MSSP)— Comtech LLC, Reston VA** *(May 2025 – Aug 2025)*
 
 Worked within Comtech's MSSP practice as a technical security resource across client engagements in healthcare and US State/Local Government — covering the full managed security service lifecycle from client outreach and requirement gathering through threat assessments, gap analyses, and service delivery.
 
@@ -73,7 +73,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 
 ## Technical Skills
  
-**Security Operations & SIEM**
+**Security Monitoring & SIEM**
 `Splunk` `SPL Queries` `Microsoft Sentinel` `Wazuh`
 `Microsoft Defender` `SOAR` `Windows Event Viewer` `Windows Registry`
  
@@ -82,7 +82,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
  
 **Frameworks & Standards**
 `MITRE ATT&CK` `NIST Incident Response Lifecycle` `OWASP Top 10`
-`STRIDE` `DREAD` `CVSS` `VAPT` `CMMC`
+`STRIDE` `DREAD` `CVSS` `VAPT`
  
 **Cloud Security**
 `AWS` `Microsoft Azure` `Google Cloud Platform`
@@ -101,7 +101,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
  
 **Operating Systems & Scripting**
 `Linux Distros` `Windows` `PowerShell` 
-`Python` `Java` `SQL` `Bash` `Git` `GitHub`
+`Python` `SQL` `Bash` `Git` `GitHub`
 
 ---
 
