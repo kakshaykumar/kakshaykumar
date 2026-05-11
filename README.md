@@ -109,7 +109,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 
 - 🏅 **ISC2 Certified in Cybersecurity (CC)**
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🔍 **Splunk Core Certified User**
+- 🔍 **Splunk Core User Training (Hands-on Coursework)**
 - 🛡️ **Fortinet Certified Associate Cybersecurity (FCA)**
 - 🛡️ **Fortinet Certified Fundamentals Cybersecurity (FCF)**
 - 🔒 **TryHackMe Pre-Security Certificate**
@@ -140,6 +140,7 @@ CTF walkthrough articles on Medium:
 - [OverTheWire Natas: Building a CTF Mindset](https://medium.com/@akshaykumar_90336/overthewire-natas-building-a-ctf-mindset-ad1a823ba614) - OverTheWire Natas Level 0 → Level 1
 - [OverTheWire Natas Level 1 → Level 2](https://medium.com/@akshaykumar_90336/overthewire-natas-level-1-level-2-feff2d0663ba)
 - [Nothing on This Page! But… What About Other Pages?](https://medium.com/@akshaykumar_90336/nothing-on-this-page-but-what-about-other-pages-b13d9111a117) - OverTheWire Natas Level 2 → Level 3
+- [It Wasn’t Maintenance — It Was a Ransom Note](https://medium.com/@akshaykumar_90336/it-wasnt-maintenance-it-was-a-ransom-note-ced2a7f1962c)
 
 ---
 
@@ -152,4 +153,4 @@ CTF walkthrough articles on Medium:
 
 ---
 
-*Fairfax, VA · Open to full-time cybersecurity roles (SOC Analyst, Cybersecurity Analyst, Threat Analyst, Security Engineer, Cloud Security) starting May 2026*
+*Fairfax, VA · Open to full-time cybersecurity roles (Security Engineer · Security Operations/SOC · Infrastructure/Network Security · Cloud Security) starting May 2026*
