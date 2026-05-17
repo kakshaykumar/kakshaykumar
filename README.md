@@ -95,7 +95,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
  
 **Networking & Infrastructure**
 `HPE Comware` `ArubaOS CX` `Aruba Central` `HPE IMC` `ProCurve`
-`Cisco` `Arista` `SolarWinds` `Kubernetes`
+`Cisco` `Arista` `SolarWinds`
 `VLANs` `STP` `OSPF` `BGP` `MPLS`
 `IPSec` `SSL/TLS` `802.1X` `RADIUS` `TACACS+`
  
