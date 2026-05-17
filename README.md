@@ -12,10 +12,13 @@ That operational background pushed me toward Cybersecurity formally. I left Mova
 
 ---
 
+## Graduated
+
+- 🎓 **MS Applied Information Technology (Cybersecurity)** @ George Mason University — GPA 3.77 — May 2026
+- 👨‍🏫 **Graduate Teaching Assistant** — IT 223: Information Security Fundamentals @ GMU *(Aug 2025 – May 2026)*
+
 ## Currently
 
-- 🎓 **MS Applied Information Technology (Cybersecurity)** @ George Mason University — GPA 3.766 — Expected May 2026
-- 👨‍🏫 **Graduate Teaching Assistant** — IT 223: Information Security Fundamentals @ GMU *(Aug 2025 – May 2026)*
 - ✍️ Writing CTF writeups on [Medium](https://medium.com/@akshaykumar_90336) — OverTheWire Natas series
 - 🎯 Actively working on hands-on Projects and CompTIA Security+ Certification
 - 🔬 Building a multi-platform cloud security assessment (AWS + Azure + GCP)
@@ -153,4 +156,4 @@ CTF walkthrough articles on Medium:
 
 ---
 
-*Fairfax, VA · Open to full-time cybersecurity roles (Security Engineer · Security Operations/SOC · Infrastructure/Network Security · Cloud Security) starting May 2026*
+*Fairfax, VA · Open to full-time cybersecurity roles (Security Operations · Network Security · Cloud Security) starting May 2026*
