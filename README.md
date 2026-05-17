@@ -112,7 +112,7 @@ Understanding Victim Demographics for Violence Reduction in Chicago
 
 - 🏅 **ISC2 Certified in Cybersecurity (CC)**
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🔍 **Splunk Core User Training (Hands-on Coursework)**
+- 🔍 **Splunk Certified Core User Training (Hands-on Coursework)**
 - 🛡️ **Fortinet Certified Associate Cybersecurity (FCA)**
 - 🛡️ **Fortinet Certified Fundamentals Cybersecurity (FCF)**
 - 🔒 **TryHackMe Pre-Security Certificate**
