@@ -29,7 +29,7 @@ That operational background pushed me toward Cybersecurity formally. I left Mova
 
 **👨‍🏫 Graduate Teaching Assistant — George Mason University** *(Aug 2025 – May 2026)*
 
-Supporting IT 223 (Information Security). Conduct weekly office hours, guide students through ZyBooks hands-on labs (malware analysis, email phishing, security basics), grade assignments with detailed feedback, and support 100+ students via email and office sessions throughout the semester.
+Supporting IT 223 (Information Security). Conduct weekly office hours, guide students through ZyBooks hands-on labs (malware analysis, email phishing, security basics), grade assignments with detailed feedback, and support 200+ students via office hours and emails throughout the semester.
 
 ---
 
