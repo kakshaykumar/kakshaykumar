@@ -39,7 +39,7 @@ Worked within Comtech's MSSP practice as a technical security resource across cl
 
 - Conducted threat assessments for client healthcare IT infrastructure using **STRIDE and DREAD** frameworks — identifying vulnerabilities, prioritizing risks, and producing client-facing reports
 - Initiated and configured a Home SOC Lab environment to simulate threat detection and incident response workflows — used to demonstrate MDR capabilities and validate security monitoring approaches for client engagements
-- Authored technical whitepapers and supported cybersecurity bid/proposal development for government and healthcare contracts
+- Authored 2-3 technical whitepapers and supported cybersecurity bid/proposal development for government and healthcare contracts
 - Developed a Managed Services Package covering network and web security tooling, gap assessment methodology, and service delivery checklists
 - Evaluated security solutions against client requirements and budgets; briefed senior management on emerging tools and market trends relevant to Comtech's service portfolio
 - Supported Comtech's **CMMC** initiative and participated in weekly reviews for active State/Local Government client engagements
