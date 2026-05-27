@@ -127,7 +127,7 @@ My logic: understand how everything connects, then learn how to defend it.
     <img src="https://img.shields.io/badge/LinkedIn-Akshaykumar%20Kathirvelu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://medium.com/@akshaykumar_90336">
-    <img src="https://img.shields.io/badge/Medium-CTF%20Writeups-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-CTF%20&Events-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
