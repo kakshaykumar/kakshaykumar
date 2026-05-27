@@ -4,7 +4,9 @@
 
 **Open and Actively Looking for Full-time Opportunities**
 Targeting: SOC Analyst · Security Operations · Network Security · Cloud Security  
-📍 Washington DC-Baltimore Area / Fairfax, VA · Available now · Open to Relocate - Onsite / Hybrid / Remote · Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible.
+
+📍 Washington DC-Baltimore Area / Fairfax, VA · Available now · Open to Relocation - Onsite · Hybrid · Remote
+· Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible.
 
 ---
 
