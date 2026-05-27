@@ -98,7 +98,7 @@ Enterprise incident response across 2,500+ switches and 3,000+ users · Splunk, 
 
 ## Writing
 
-CTF walkthroughs on Medium — documenting the thinking behind each level, not just the solution:
+CTF walkthroughs & Incident Writeups on Medium — documenting the thinking behind each level, not just the solution:
 
 - [OverTheWire Natas: Building a CTF Mindset](https://medium.com/@akshaykumar_90336/overthewire-natas-building-a-ctf-mindset-ad1a823ba614) - OverTheWire Natas Level 0 → Level 1
 - [Natas Level 1 → Level 2](https://medium.com/@akshaykumar_90336/overthewire-natas-level-1-level-2-feff2d0663ba) - OverTheWire Natas Level 1 → Level 2
@@ -113,7 +113,7 @@ CTF walkthroughs on Medium — documenting the thinking behind each level, not j
 
 Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterprise infrastructure actually behaves under attack conditions — real customers, real incidents, real production networks. The security thread was always there: VAPT cycles, access control hardening, Splunk log analysis, flagging misconfigurations before they became incidents. That operational foundation is what pushed me toward formalizing the security side at GMU.
 
-My logic: understand how everything connects, then learn how to defend it.
+**My logic: understand how everything connects, then learn how to defend it.**
 
 ---
 
@@ -127,7 +127,7 @@ My logic: understand how everything connects, then learn how to defend it.
     <img src="https://img.shields.io/badge/LinkedIn-Akshaykumar%20Kathirvelu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://medium.com/@akshaykumar_90336">
-    <img src="https://img.shields.io/badge/Medium-CTF%20& Events-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Writeups%20CTFEvents-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
