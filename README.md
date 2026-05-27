@@ -1,6 +1,6 @@
 # Hi There :) - I'm Akshaykumar Kathirvelu 👋
 
-**Cybersecurity Analyst · 3 Yrs Enterprise Network & Security Operations · Cybersecurity SME Intern (MSSP) · SIEM (Splunk, Sentinel, Wazuh) · Cloud Security · MS Cybersecurity GMU '26 · Open to Full-time 
+**Cybersecurity Analyst · 3 Yrs Enterprise Network & Security Operations · Cybersecurity SME Intern (MSSP) · SIEM (Splunk, Sentinel, Wazuh) · Cloud Security · MS Cybersecurity GMU '26 · Open to Full-time**
 
 **Open and Actively Looking for Full-time Opportunities**
 Targeting: SOC Analyst · Security Operations · Network Security · Cloud Security  
