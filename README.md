@@ -2,10 +2,12 @@
 
 **Cybersecurity Professional · 3 Yrs Enterprise Network & Security Operations · Cybersecurity SME Intern (MSSP) · SIEM (Splunk, Sentinel, Wazuh) · Cloud Security · MS AIT (Cybersecurity) GMU '26 · Open to Full-time**
 
+Availability: Available now
 **Open and Actively Looking for Full-time Opportunities**
-Targeting: SOC Analyst · Security Operations · Network Security · Cloud Security  
 
-📍 Washington DC-Baltimore Area / Fairfax, VA · Open to Relocation - Onsite · Hybrid · Remote · Available now
+Roles Targeting: **SOC Analyst** · Security Operations · Network Security · Cloud Security  
+
+📍 United States | Open to Relocation Across the U.S. - Onsite · Hybrid · Remote
 
 - Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible.
 
