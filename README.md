@@ -1,6 +1,6 @@
 # Hi There :) - I'm Akshaykumar Kathirvelu 👋
 
-**Cybersecurity Professional · 3 Yrs Enterprise Network & Security Operations · Cybersecurity SME Intern (MSSP) · SIEM (Splunk, Sentinel, Wazuh) · Cloud Security · MS AIT (Cybersecurity) GMU '26 · Open to Full-time**
+**Cybersecurity Professional · 3 Yrs Enterprise Network & Security Operations · Cybersecurity SME Intern (MSSP) · SIEM (Splunk, Sentinel, Wazuh) · Cloud Security · CompTIA Security+ (SY0-701) · ISC2 Certified in Cybersecurity(CC) · Microsoft Azure Fundamentals(AZ-900) ·  MS AIT (Cybersecurity) GMU '26 · Open to Full-time**
 
 Availability: Available now
 **Open and Actively Looking for Full-time Opportunities**
@@ -18,7 +18,6 @@ Roles Targeting: **SOC Analyst** · Security Operations · Network Security · C
 - 🔒 Actively applying for full-time cybersecurity roles
 - ✍️ Writing CTF walkthroughs and Incident reports on [Medium](https://medium.com/@akshaykumar_90336)
 - 🎯 Actively working on hands-on Projects
-- 📚 CompTIA Security+ — in progress
 - ☁️ Building multi-platform cloud security assessment (AWS + Azure + GCP)
 
 ---
@@ -39,8 +38,8 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 **In Progress(artifacts will be published):**
 Academic hands-on projects and assignments:
 - 🔒 Secure Software Development — 6 hands-on security labs
-- 📊 Information: Representation, Processing and Visualization -
-Understanding Victim Demographics for Violence Reduction in Chicago
+- 📊 Information: Representation, Processing and Visualization
+- Understanding Victim Demographics for Violence Reduction in Chicago
 - 🧮 Data Structures & Algorithms — Shortest Path Computation for Self-Driving Cars Using Dijkstra and A* Algorithms
 
 ---
@@ -88,13 +87,13 @@ Enterprise incident response across 2,500+ switches and 3,000+ users · Splunk, 
 
 ## Certifications
 
+- 🎯 **CompTIA Security+ (SY0-701)** 
 - 🏅 **ISC2 Certified in Cybersecurity (CC)**
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🔍 **Splunk Certified Core User Training (Hands-on Coursework)**
+- 🔍 **Splunk Core User Training (Hands-on Coursework)**
 - 🛡️ **Fortinet Certified Associate Cybersecurity (FCA)**
 - 🛡️ **Fortinet Certified Fundamentals Cybersecurity (FCF)**
 - 🔒 **TryHackMe Pre-Security Certificate**
-- 🎯 **CompTIA Security+** — In progress
 
 ---
 
