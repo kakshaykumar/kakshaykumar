@@ -246,7 +246,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 
 CTF walkthroughs & incident writeups on Medium — documenting the thinking behind each level, not just the solution.
 
-<a href="https://medium.com/@previous-will0071/it-wasnt-maintenance-it-was-a-ransom-note-ced2a7f1962c"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> It Wasn't Maintenance — It Was a Ransom Note — **Ransomware Breach on Instructure (Canvas)**
+<a href="https://medium.com/@previous-will0071/it-wasnt-maintenance-it-was-a-ransom-note-ced2a7f1962c"><img src="https://img.shields.io/badge/-It Wasn't Maintenance — It Was a Ransom Note-000000?style=flat-square&logo=medium&logoColor=white" /></a> **Ransomware Breach on Instructure (Canvas)**
 
 <a href="https://medium.com/@previous-will0071/overthewire-natas-building-a-ctf-mindset-ad1a823ba614"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> OverTheWire Natas: Building a CTF Mindset — **OverTheWire Natas Level 0 → 1**
 
