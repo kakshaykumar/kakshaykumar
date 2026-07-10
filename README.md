@@ -131,19 +131,19 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-**Security Monitoring & SIEM**
+Security Monitoring & SIEM
+
 <p>
 <img src="https://img.shields.io/badge/-Splunk-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-SPL%20Queries-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Wazuh-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/-Microsoft%20Defender-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-333333?style=flat-square" />
 </p>
+Threat Detection & Analysis
 
-**Threat Detection & Analysis**
 <p>
 <img src="https://img.shields.io/badge/-Nessus-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-Qualys-4b3f72?style=flat-square" />
@@ -153,8 +153,8 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-Metasploit-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-YARA-4b3f72?style=flat-square" />
 </p>
+Frameworks & Standards
 
-**Frameworks & Standards**
 <p>
 <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-8a1f2b?style=flat-square" />
 <img src="https://img.shields.io/badge/-NIST%20IR%20Lifecycle-8a1f2b?style=flat-square" />
@@ -164,8 +164,8 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-CVSS-8a1f2b?style=flat-square" />
 <img src="https://img.shields.io/badge/-CIS%20Benchmarks-8a1f2b?style=flat-square" />
 </p>
+Cloud Security
 
-**Cloud Security**
 <p>
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -175,8 +175,8 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-GuardDuty%20%2F%20CloudTrail-FF9900?style=flat-square" />
 <img src="https://img.shields.io/badge/-VPC%2FNSG%20Flow%20Logs-333333?style=flat-square" />
 </p>
+Networking & Infrastructure
 
-**Networking & Infrastructure**
 <p>
 <img src="https://img.shields.io/badge/-HPE%20Comware-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-ArubaOS%20CX-2c5f2d?style=flat-square" />
@@ -188,16 +188,15 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-802.1X%20%2F%20RADIUS%20%2F%20TACACS%2B-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-IPSec%20%2F%20SSL%2FTLS-2c5f2d?style=flat-square" />
 </p>
+Identity & Access Management
 
-**Identity & Access Management**
 <p>
-<img src="https://img.shields.io/badge/-Active%20Directory-00539c?style=flat-square" />
 <img src="https://img.shields.io/badge/-Azure%20Entra%20ID-00539c?style=flat-square" />
 <img src="https://img.shields.io/badge/-IAM%20%2F%20RBAC-00539c?style=flat-square" />
 <img src="https://img.shields.io/badge/-Zero%20Trust-00539c?style=flat-square" />
 </p>
+Operating Systems & Scripting
 
-**Operating Systems & Scripting**
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
@@ -233,7 +232,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
   </a>
 </p>
 
-*Splunk Core User Training — hands-on coursework, no public verification badge issued.*
+*Splunk Core User Training — hands-on coursework*
 
 ---
 
