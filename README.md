@@ -1,91 +1,225 @@
-# Hi There :) - I'm Akshaykumar Kathirvelu 👋
+<div align="center">
 
-**Cybersecurity Professional · 3 Yrs Enterprise Network & Security Operations · Cybersecurity SME Intern (MSSP) · SIEM (Splunk, Sentinel, Wazuh) · Cloud Security · CompTIA Security+ (SY0-701) · ISC2 Certified in Cybersecurity(CC) · Microsoft Azure Fundamentals(AZ-900) ·  MS AIT (Cybersecurity) GMU '26 · Open to Full-time**
+# Akshaykumar Kathirvelu
 
-Availability: Available now
-**Open and Actively Looking for Full-time Opportunities**
+### Cybersecurity Professional · SOC Analyst · Security Operations · Cloud Security
 
-Roles Targeting: **SOC Analyst** · Security Operations · Network Security · Cloud Security  
+<p>
+  <img src="https://img.shields.io/badge/Experience-3%20Yrs%20Enterprise%20Network%20%26%20Security-1a1a2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MS%20AIT-Cybersecurity%2C%20GMU%20'26-1a1a2e?style=for-the-badge" />
+</p>
 
-📍 United States | Open to Relocation Across the U.S. - Onsite · Hybrid · Remote
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Full--time-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Availability-Available%20Now-2ea44f?style=for-the-badge" />
+</p>
 
-- Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible.
+<p>
+  <a href="mailto:kakshaykumark@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kakshaykumark%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshaykumar-kathirvelu">
+    <img src="https://img.shields.io/badge/LinkedIn-Akshaykumar%20Kathirvelu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@akshaykumar_90336">
+    <img src="https://img.shields.io/badge/Medium-Writeups%20%26%20CTFs-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://akshaykumar-kathirvelu.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6B7CE8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+**Roles Targeting:** SOC Analyst · Security Operations · Network Security · Cloud Security
+📍 United States — Open to Relocation · Onsite / Hybrid / Remote
+Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible
+
+</div>
 
 ---
 
-## Currently
+## 🔒 Currently
 
-- 🔒 Actively applying for full-time cybersecurity roles
-- ✍️ Writing CTF walkthroughs and Incident reports on [Medium](https://medium.com/@akshaykumar_90336)
-- 🎯 Actively working on hands-on Projects
-- ☁️ Building multi-platform cloud security assessment (AWS + Azure + GCP)
+- Actively applying for full-time cybersecurity roles
+- Writing CTF walkthroughs and incident reports on [Medium](https://medium.com/@akshaykumar_90336)
+- Actively working on hands-on projects
+- Building a multi-platform cloud security assessment (AWS + Azure + GCP)
 
 ---
 
-## Portfolio
+## 🗂️ Portfolio
 
 Real tools, real findings, real artifacts — built across coursework and independent research.
 
-| Repository | What it covers |
-|---|---|
-| [🔬 wireshark-network-threat-investigation](https://github.com/kakshaykumar/wireshark-network-threat-investigation) | 12 attack scenarios · 24 real .pcapng captures · MITRE ATT&CK mapped · detection thresholds documented |
-| [⚔️ applied-security-labs](https://github.com/kakshaykumar/applied-security-labs) | SQL injection with annotated attack code · RSA-2048 with real `.pem` keypair and verifiable `.enc` artifact |
-| [☁️ cloud-security-iaas](https://github.com/kakshaykumar/cloud-security-iaas) | Azure vs GCP default IaaS security review · IAM/logging gaps · CIS v3.0.0 / NIST hardening checklist |
-| [🦠 malware-progression-detection](https://github.com/kakshaykumar/malware-progression-detection) | Malware evolution analysis · YARA detection rules (ransomware, fileless T1059.001, APT T1021) |
-| [🛡️ identity-theft-research](https://github.com/kakshaykumar/identity-theft-research) | Equifax / Cambridge Analytica / T-Mobile breach analysis · IAM controls · MFA strategy · STRIDE modeling |
-| [📡 network-security-labs](https://github.com/kakshaykumar/network-security-labs) | Nessus vulnerability scanning · Wireshark 5-protocol analysis · NAT/VPN behavior — live environments |
+<table>
+<tr><th align="left">Repository</th><th align="left">What it covers</th></tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/wireshark-network-threat-investigation">
+<img src="https://img.shields.io/badge/🔬-wireshark--network--threat--investigation-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>12 attack scenarios · 24 real .pcapng captures · MITRE ATT&CK mapped · detection thresholds documented</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/applied-security-labs">
+<img src="https://img.shields.io/badge/⚔️-applied--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>SQL injection with annotated attack code · RSA-2048 with real <code>.pem</code> keypair and verifiable <code>.enc</code> artifact</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/cloud-security-iaas">
+<img src="https://img.shields.io/badge/☁️-cloud--security--iaas-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>Azure vs GCP default IaaS security review · IAM/logging gaps · CIS v3.0.0 / NIST hardening checklist</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/malware-progression-detection">
+<img src="https://img.shields.io/badge/🦠-malware--progression--detection-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>Malware evolution &amp; detection strategy literature review</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/identity-theft-research">
+<img src="https://img.shields.io/badge/🛡️-identity--theft--research-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>Equifax / Cambridge Analytica / T-Mobile breach analysis · IAM controls · MFA strategy · STRIDE modeling</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/network-security-labs">
+<img src="https://img.shields.io/badge/📡-network--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>Nessus vulnerability scanning · Wireshark 5-protocol analysis · NAT/VPN behavior — live environments</td>
+</tr>
+</table>
 
-**In Progress(artifacts will be published):**
-Academic hands-on projects and assignments:
+**In Progress** *(artifacts will be published)* — academic hands-on projects and assignments:
 - 🔒 Secure Software Development — 6 hands-on security labs
-- 📊 Information: Representation, Processing and Visualization
-- Understanding Victim Demographics for Violence Reduction in Chicago
-- 🧮 Data Structures & Algorithms — Shortest Path Computation for Self-Driving Cars Using Dijkstra and A* Algorithms
+- 📊 Information Representation, Processing & Visualization — Victim Demographics for Violence Reduction in Chicago
+- 🧮 Data Structures & Algorithms — Shortest Path Computation for Self-Driving Cars (Dijkstra / A*)
 
 ---
 
-## Experience
+## 💼 Experience
 
-**👨‍🏫 Graduate Teaching Assistant — GMU** *(Aug 2025 – May 2026)*  
+<table>
+<tr>
+<td width="45px">👨‍🏫</td>
+<td>
+<b>Graduate Teaching Assistant</b> — George Mason University <br/>
+<sub>Aug 2025 – May 2026</sub><br/>
 Mentored 200+ students through IT 223 Information Security Fundamentals — labs, office hours, and graded assessments.
-
-**🛡️ Cybersecurity SME Intern (MSSP) — Comtech LLC** *(May – Aug 2025)*  
-STRIDE/DREAD threat assessments, SOC validation lab, 3 technical whitepapers, CMMC readiness — healthcare and US State/Local Government clients.
-
-**🌐 Network Security Engineer L1 → L2 — Movate / HPE-Aruba** *(Sep 2021 – Jul 2024)*  
+</td>
+</tr>
+<tr>
+<td width="45px">🛡️</td>
+<td>
+<b>Cybersecurity SME Intern (MSSP)</b> — Comtech LLC <br/>
+<sub>May 2025 – Aug 2025</sub><br/>
+STRIDE/DREAD threat assessments, SOC validation lab, 3 technical whitepapers, CMMC readiness — healthcare and U.S. State/Local Government clients.
+</td>
+</tr>
+<tr>
+<td width="45px">🌐</td>
+<td>
+<b>Network Security Engineer, L1 → L2</b> — Movate / HPE-Aruba Networking <br/>
+<sub>Sep 2021 – Jul 2024</sub><br/>
 Enterprise incident response across 2,500+ switches and 3,000+ users · Splunk, Qualys, Nessus, Wireshark · 802.1X, RADIUS, TACACS+ hardening.
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-**Security Monitoring & SIEM**  
-`Splunk` `SPL Queries` `Microsoft Sentinel` `Wazuh` `Microsoft Defender` `Windows Event Viewer`
+**Security Monitoring & SIEM**
+<p>
+<img src="https://img.shields.io/badge/-Splunk-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-SPL%20Queries-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Wazuh-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Microsoft%20Defender-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-333333?style=flat-square" />
+</p>
 
-**Threat Detection & Analysis**  
-`Nessus` `Qualys` `Wireshark` `Nmap` `Burp Suite` `Metasploit` `YARA`
+**Threat Detection & Analysis**
+<p>
+<img src="https://img.shields.io/badge/-Nessus-4b3f72?style=flat-square" />
+<img src="https://img.shields.io/badge/-Qualys-4b3f72?style=flat-square" />
+<img src="https://img.shields.io/badge/-Wireshark-4b3f72?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-4b3f72?style=flat-square" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-4b3f72?style=flat-square" />
+<img src="https://img.shields.io/badge/-Metasploit-4b3f72?style=flat-square" />
+<img src="https://img.shields.io/badge/-YARA-4b3f72?style=flat-square" />
+</p>
 
-**Frameworks & Standards**  
-`MITRE ATT&CK` `NIST IR Lifecycle` `OWASP Top 10` `STRIDE` `DREAD` `CVSS` `CIS Benchmarks`
+**Frameworks & Standards**
+<p>
+<img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-NIST%20IR%20Lifecycle-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-OWASP%20Top%2010-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-STRIDE-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-DREAD-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-CVSS-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-CIS%20Benchmarks-8a1f2b?style=flat-square" />
+</p>
 
-**Cloud Security**  
-`Microsoft Azure` `Google Cloud Platform` `AWS`  
-`Defender for Cloud` `Security Command Center` `GuardDuty` `CloudTrail` `VPC/NSG Flow Logs`
+**Cloud Security**
+<p>
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Defender%20for%20Cloud-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/-Security%20Command%20Center-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/-GuardDuty%20%2F%20CloudTrail-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/-VPC%2FNSG%20Flow%20Logs-333333?style=flat-square" />
+</p>
 
-**Networking & Infrastructure**  
-`HPE Comware` `ArubaOS CX` `Aruba Central` `Cisco` `Arista` `SolarWinds`  
-`VLANs` `OSPF` `BGP` `MPLS` `802.1X` `RADIUS` `TACACS+` `IPSec` `SSL/TLS`
+**Networking & Infrastructure**
+<p>
+<img src="https://img.shields.io/badge/-HPE%20Comware-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-ArubaOS%20CX-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-Aruba%20Central-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-Cisco-2c5f2d?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Arista-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-SolarWinds-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-VLANs%20%2F%20OSPF%20%2F%20BGP%20%2F%20MPLS-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-802.1X%20%2F%20RADIUS%20%2F%20TACACS%2B-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-IPSec%20%2F%20SSL%2FTLS-2c5f2d?style=flat-square" />
+</p>
 
-**Identity & Access Management**  
-`Active Directory` `Azure Entra ID` `IAM` `RBAC` `Zero Trust`
+**Identity & Access Management**
+<p>
+<img src="https://img.shields.io/badge/-Active%20Directory-00539c?style=flat-square" />
+<img src="https://img.shields.io/badge/-Azure%20Entra%20ID-00539c?style=flat-square" />
+<img src="https://img.shields.io/badge/-IAM%20%2F%20RBAC-00539c?style=flat-square" />
+<img src="https://img.shields.io/badge/-Zero%20Trust-00539c?style=flat-square" />
+</p>
 
-**Operating Systems & Scripting Tools**  
-`Python` `PowerShell` `Bash` `SQL` `Git`
-`Linux Distros` `Windows`
+**Operating Systems & Scripting**
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+</p>
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
 <p align="left">
   <a href="https://www.credly.com/badges/d88b2215-1296-4816-a415-e126bbbf3f27/public_url">
@@ -108,22 +242,24 @@ Enterprise incident response across 2,500+ switches and 3,000+ users · Splunk, 
   </a>
 </p>
 
-*Splunk Core User Training — hands-on coursework, no verification badge issued.*
+*Splunk Core User Training — hands-on coursework, no public verification badge issued.*
 
 ---
 
-## Writing
+## ✍️ Writing
 
-CTF walkthroughs & Incident Writeups on Medium — documenting the thinking behind each level, not just the solution:
+CTF walkthroughs & incident writeups on Medium — documenting the thinking behind each level, not just the solution.
 
-- [OverTheWire Natas: Building a CTF Mindset](https://medium.com/@akshaykumar_90336/overthewire-natas-building-a-ctf-mindset-ad1a823ba614) - OverTheWire Natas Level 0 → Level 1
-- [Natas Level 1 → Level 2](https://medium.com/@akshaykumar_90336/overthewire-natas-level-1-level-2-feff2d0663ba) - OverTheWire Natas Level 1 → Level 2
-- [Nothing on This Page! But… What About Other Pages?](https://medium.com/@akshaykumar_90336/nothing-on-this-page-but-what-about-other-pages-b13d9111a117) - OverTheWire Natas Level 2 → Level 3
-- [It Wasn't Maintenance — It Was a Ransom Note](https://medium.com/@akshaykumar_90336/it-wasnt-maintenance-it-was-a-ransom-note-ced2a7f1962c) - Ransomware Breach Occurrence on Instructure [Canvas]
+| Writeup | Topic |
+|---|---|
+| [Building a CTF Mindset](https://medium.com/@akshaykumar_90336/overthewire-natas-building-a-ctf-mindset-ad1a823ba614) | OverTheWire Natas Level 0 → 1 |
+| [Natas Level 1 → 2](https://medium.com/@akshaykumar_90336/overthewire-natas-level-1-level-2-feff2d0663ba) | OverTheWire Natas Level 1 → 2 |
+| [Nothing on This Page! But… What About Other Pages?](https://medium.com/@akshaykumar_90336/nothing-on-this-page-but-what-about-other-pages-b13d9111a117) | OverTheWire Natas Level 2 → 3 |
+| [It Wasn't Maintenance — It Was a Ransom Note](https://medium.com/@akshaykumar_90336/it-wasnt-maintenance-it-was-a-ransom-note-ced2a7f1962c) | Ransomware Breach on Instructure (Canvas) |
 
 ---
 
-## Background
+## 🧭 Background
 
 `🎓 ECE` → `📡 CCNA` → `🌐 HPE-Aruba Network Security (3 yrs · L1→L2)` → `🔐 MS AIT Cybersecurity @ GMU` → `🛡️ MSSP Cybersecurity SME Intern` → `👨‍🏫 Graduate TA`
 
@@ -133,9 +269,11 @@ Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterpr
 
 ---
 
-## Connect
+<div align="center">
 
-<p align="left">
+## 📫 Connect
+
+<p>
   <a href="mailto:kakshaykumark@gmail.com">
     <img src="https://img.shields.io/badge/Email-kakshaykumark%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
@@ -143,10 +281,13 @@ Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterpr
     <img src="https://img.shields.io/badge/LinkedIn-Akshaykumar%20Kathirvelu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://medium.com/@akshaykumar_90336">
-    <img src="https://img.shields.io/badge/Medium-Writeups%20CTFEvents-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Writeups%20%26%20CTFs-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/kakshaykumar">
+    <img src="https://img.shields.io/badge/GitHub-kakshaykumar-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+*Washington DC–Baltimore Area / Fairfax, VA · Open to full-time roles in Security Operations · Network Security · Cloud Security · Available now*
 
-*Washington DC-Baltimore Area / Fairfax, VA · Open to full-time roles in Security Operations · Network Security · Cloud Security · Available now*
+</div>
