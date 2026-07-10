@@ -251,11 +251,19 @@ CTF walkthroughs & incident writeups on Medium — documenting the thinking behi
 
 ## 🧭 Background
 
-`🎓 ECE` → `📡 CCNA` → `🌐 HPE-Aruba Network Security (3 yrs · L1→L2)` → `🔐 MS AIT Cybersecurity @ GMU` → `🛡️ MSSP Cybersecurity SME Intern` → `👨‍🏫 Graduate TA`
+<div align="center">
+<img src="https://img.shields.io/badge/🎓-ECE-4b3f72?style=for-the-badge" /> ➜
+<img src="https://img.shields.io/badge/📡-CCNA-4b3f72?style=for-the-badge" /> ➜
+<img src="https://img.shields.io/badge/🌐-HPE--Aruba%20Network%20Security%20(3%20yrs%2C%20L1→L2)-2c5f2d?style=for-the-badge" /> ➜
+<img src="https://img.shields.io/badge/🔐-MS%20AIT%20Cybersecurity%20@%20GMU-00539c?style=for-the-badge" /> ➜
+<img src="https://img.shields.io/badge/🛡️-MSSP%20Cybersecurity%20SME%20Intern-8a1f2b?style=for-the-badge" /> ➜
+<img src="https://img.shields.io/badge/👨‍🏫-Graduate%20TA-1a1a2e?style=for-the-badge" />
 
+</div>
 Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterprise infrastructure actually behaves under attack conditions — real customers, real incidents, real production networks. The security thread was always there: VAPT cycles, access control hardening, Splunk log analysis, flagging misconfigurations before they became incidents. That operational foundation is what pushed me toward formalizing the security side at GMU.
 
-**My logic: understand how everything connects, then learn how to defend it.**
+
+**💡 My logic: understand how everything connects, then learn how to defend it.**
 
 ---
 
