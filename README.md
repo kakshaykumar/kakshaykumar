@@ -82,7 +82,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/🦠-malware--progression--detection-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
-<td>Malware evolution &amp; detection strategy literature review</td>
+<td>Malware evolution analysis · YARA detection rules (ransomware, fileless T1059.001, APT T1021)</td>
 </tr>
 <tr>
 <td>
