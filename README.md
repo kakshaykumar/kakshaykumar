@@ -104,25 +104,25 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 
 <table>
 <tr>
-<td width="45px">👨‍🏫</td>
+<td width="45px">👨‍🏫George Mason University</td>
 <td>
-<b>Graduate Teaching Assistant</b> — George Mason University<br/>                                
+<b>Graduate Teaching Assistant</b><br/>                                
 <sub><i>Aug 2025 – May 2026</i></sub><br/>
 <sub>Mentored 200+ students through Information Security; labs, office hours, and graded assessments.</sub>
 </td>
 </tr>
 <tr>
-<td width="45px">🛡️</td>
+<td width="45px">🛡️Comtech LLC</td>
 <td>
-<b>Cybersecurity SME Intern (MSSP)</b> — Comtech LLC<br/>
+<b>Cybersecurity SME Intern (MSSP)</b><br/>
 <sub><i>May 2025 – Aug 2025</i></sub><br/>
 <sub>STRIDE/DREAD threat assessments, SOC validation lab, contributed 3 technical whitepapers, CMMC readiness; healthcare and U.S. State/Local Government clients.</sub>
 </td>
 </tr>
 <tr>
-<td width="45px">🌐</td>
+<td width="45px">🌐Movate / HPE-Aruba Networking</td>
 <td>
-<b>Network Security Engineer, L1 → L2</b> — Movate / HPE-Aruba Networking<br/>                         
+<b>Network Security Engineer, L1 → L2</b><br/>                         
 <sub><i>Sep 2021 – Jul 2024</i></sub><br/>
 <sub>Enterprise incident response across 2,500+ switches/routers and 3,000+ users · Splunk, Qualys, Nessus, Wireshark · 802.1X, RADIUS, TACACS+ hardening.</sub>
 </td>
