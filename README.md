@@ -55,7 +55,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <tr>
 <td>
 <a href="https://github.com/kakshaykumar/wireshark-network-threat-investigation">
-<img src="https://img.shields.io/badge/🔬-wireshark--network--threat--investigation-24292e?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/wireshark--network--threat--investigation-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 <td>12 attack scenarios · 24 real .pcapng captures · MITRE ATT&CK mapped · detection thresholds documented</td>
@@ -63,7 +63,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <tr>
 <td>
 <a href="https://github.com/kakshaykumar/applied-security-labs">
-<img src="https://img.shields.io/badge/⚔️-applied--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/applied--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 <td>SQL injection with annotated attack code · RSA-2048 with real <code>.pem</code> keypair and verifiable <code>.enc</code> artifact</td>
@@ -71,7 +71,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <tr>
 <td>
 <a href="https://github.com/kakshaykumar/cloud-security-iaas">
-<img src="https://img.shields.io/badge/☁️-cloud--security--iaas-24292e?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/cloud--security--iaas-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 <td>Azure vs GCP default IaaS security review · IAM/logging gaps · CIS v3.0.0 / NIST hardening checklist</td>
@@ -79,7 +79,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <tr>
 <td>
 <a href="https://github.com/kakshaykumar/malware-progression-detection">
-<img src="https://img.shields.io/badge/🦠-malware--progression--detection-24292e?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/malware--progression--detection-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 <td>Malware evolution analysis · YARA detection rules (ransomware, fileless T1059.001, APT T1021)</td>
@@ -87,7 +87,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <tr>
 <td>
 <a href="https://github.com/kakshaykumar/identity-theft-research">
-<img src="https://img.shields.io/badge/🛡️-identity--theft--research-24292e?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/identity--theft--research-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 <td>Equifax / Cambridge Analytica / T-Mobile breach analysis · IAM controls · MFA strategy · STRIDE modeling</td>
