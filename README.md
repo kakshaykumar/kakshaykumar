@@ -131,7 +131,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 Security Monitoring & SIEM
 
