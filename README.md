@@ -252,7 +252,7 @@ CTF walkthroughs & incident writeups on Medium — documenting the thinking behi
 
 <a href="https://medium.com/@previous-will0071/overthewire-natas-level-1-level-2-feff2d0663ba"><img src="https://img.shields.io/badge/-Natas Level 1 → 2-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 1 → 2**
 
-<a href="https://medium.com/@previous-will0071/nothing-on-this-page-but-what-about-other-pages-b13d9111a117"><img src="https://img.shields.io/badge/-Nothing on This Page! But… What About Other Pages?-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 2 → 3**
+<a href="https://medium.com/@previous-will0071/nothing-on-this-page-but-what-about-other-pages-b13d9111a117"><img src="https://img.shields.io/badge/-Nothing on This Page! But… What About Other Pages?!-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 2 → 3**
 
 <a href="https://medium.com/@previous-will0071/the-hint-is-hidden-in-plain-sight-so-is-the-secret-0fb20fc76e51"><img src="https://img.shields.io/badge/-The Hint Is Hidden in Plain Sight, So Is the Secret-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 3 → 4**
 
