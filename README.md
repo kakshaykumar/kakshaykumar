@@ -263,7 +263,8 @@ CTF walkthroughs & incident writeups on Medium — documenting the thinking behi
 Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterprise infrastructure actually behaves under attack conditions — real customers, real incidents, real production networks. The security thread was always there: VAPT cycles, access control hardening, Splunk log analysis, flagging misconfigurations before they became incidents. That operational foundation is what pushed me toward formalizing the security side at GMU.
 
 </br>
-**💡 My logic: understand how everything connects, then learn how to defend it.**
+
+**<i>💡 My logic: understand how everything connects, then learn how to defend it.</i>**
 
 ---
 
@@ -286,6 +287,6 @@ Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterpr
   </a>
 </p>
 
-*Washington DC–Baltimore Area / Fairfax, VA · Open to full-time roles in Security Operations · Network Security · Cloud Security · Available now*
+**Washington DC–Baltimore Area / Fairfax, VA · Open to full-time roles · Available now**
 
 </div>
