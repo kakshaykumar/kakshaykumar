@@ -29,8 +29,8 @@
   </a>
 </p>
 
-**Roles Targeting:** SOC Analyst · Security Operations · Network Security · Cloud Security
-📍 United States — Open to Relocation · Onsite / Hybrid / Remote
+**Target Roles:** SOC Analyst · Security Operations · Network Security · Cloud Security
+📍 United States — Open to Relocation
 Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible
 
 </div>
