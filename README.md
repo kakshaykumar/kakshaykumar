@@ -106,25 +106,25 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <tr>
 <td width="45px">👨‍🏫</td>
 <td>
-<b>Graduate Teaching Assistant</b> — George Mason University                                   
-<sub>Aug 2025 – May 2026</sub><br/>
-Mentored 200+ students through Information Security; labs, office hours, and graded assessments.
+<b>Graduate Teaching Assistant</b> — George Mason University<br/>                                
+<sub><i>Aug 2025 – May 2026</i></sub><br/>
+<sub>Mentored 200+ students through Information Security; labs, office hours, and graded assessments.</sub>
 </td>
 </tr>
 <tr>
 <td width="45px">🛡️</td>
 <td>
-<b>Cybersecurity SME Intern (MSSP)</b> — Comtech LLC                                             
-<sub>May 2025 – Aug 2025</sub><br/>
-STRIDE/DREAD threat assessments, SOC validation lab, contributed 3 technical whitepapers, CMMC readiness; healthcare and U.S. State/Local Government clients.
+<b>Cybersecurity SME Intern (MSSP)</b> — Comtech LLC<br/>
+<sub><i>May 2025 – Aug 2025</i></sub><br/>
+<sub>STRIDE/DREAD threat assessments, SOC validation lab, contributed 3 technical whitepapers, CMMC readiness; healthcare and U.S. State/Local Government clients.</sub>
 </td>
 </tr>
 <tr>
 <td width="45px">🌐</td>
 <td>
-<b>Network Security Engineer, L1 → L2</b> — Movate / HPE-Aruba Networking                         
-<sub>Sep 2021 – Jul 2024</sub><br/>
-Enterprise incident response across 2,500+ switches/routers and 3,000+ users · Splunk, Qualys, Nessus, Wireshark · 802.1X, RADIUS, TACACS+ hardening.
+<b>Network Security Engineer, L1 → L2</b> — Movate / HPE-Aruba Networking<br/>                         
+<sub><i>Sep 2021 – Jul 2024</i></sub><br/>
+<sub>Enterprise incident response across 2,500+ switches/routers and 3,000+ users · Splunk, Qualys, Nessus, Wireshark · 802.1X, RADIUS, TACACS+ hardening.</sub>
 </td>
 </tr>
 </table>
