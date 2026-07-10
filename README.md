@@ -95,6 +95,29 @@ Enterprise incident response across 2,500+ switches and 3,000+ users · Splunk, 
 - 🛡️ **Fortinet Certified Fundamentals Cybersecurity (FCF)**
 - 🔒 **TryHackMe Pre-Security Certificate**
 
+<p align="left">
+  <a href="https://www.credly.com/badges/d88b2215-1296-4816-a415-e126bbbf3f27/public_url">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-E0231B?style=for-the-badge&logo=comptia&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/f3e58365-7489-4fb8-a7d1-b1cf901048ef/public_url">
+    <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-0033A0?style=for-the-badge&logo=isc2&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/akshaykumarkathirvelu-2388/credentials/e92e93887f3f2656">
+    <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/88078cd2-6534-4591-8d6c-97847df4c582/public_url">
+    <img src="https://img.shields.io/badge/Fortinet-Certified%20Associate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/02b1eefc-fc87-457d-9d6c-4f12976faf2b/public_url">
+    <img src="https://img.shields.io/badge/Fortinet-Certified%20Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://tryhackme.com/certificate/THM-CVBGI9ZOTA">
+    <img src="https://img.shields.io/badge/TryHackMe-Pre--Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+*Splunk Core User Training — hands-on coursework, no verification badge issued.*
+
 ---
 
 ## Writing
