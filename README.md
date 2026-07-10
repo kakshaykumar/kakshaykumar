@@ -37,15 +37,6 @@ Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible
 
 ---
 
-## 🔒 Currently
-
-- Actively applying for full-time cybersecurity roles
-- Writing CTF walkthroughs and incident reports on [Medium](https://medium.com/@akshaykumar_90336)
-- Actively working on hands-on projects
-- Building a multi-platform cloud security assessment (AWS + Azure + GCP)
-
----
-
 ## 🗂️ Portfolio
 
 Real tools, real findings, real artifacts — built across coursework and independent research.
