@@ -87,14 +87,6 @@ Enterprise incident response across 2,500+ switches and 3,000+ users · Splunk, 
 
 ## Certifications
 
-- 🎯 **CompTIA Security+ (SY0-701)** 
-- 🏅 **ISC2 Certified in Cybersecurity (CC)**
-- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🔍 **Splunk Core User Training (Hands-on Coursework)**
-- 🛡️ **Fortinet Certified Associate Cybersecurity (FCA)**
-- 🛡️ **Fortinet Certified Fundamentals Cybersecurity (FCF)**
-- 🔒 **TryHackMe Pre-Security Certificate**
-
 <p align="left">
   <a href="https://www.credly.com/badges/d88b2215-1296-4816-a415-e126bbbf3f27/public_url">
     <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-E0231B?style=for-the-badge&logo=comptia&logoColor=white" />
