@@ -248,17 +248,17 @@ CTF walkthroughs & incident writeups on Medium — documenting the thinking behi
 
 <a href="https://medium.com/@previous-will0071/it-wasnt-maintenance-it-was-a-ransom-note-ced2a7f1962c"><img src="https://img.shields.io/badge/-It Wasn't Maintenance — It Was a Ransom Note-000000?style=flat-square&logo=medium&logoColor=white" /></a> **Ransomware Breach on Instructure (Canvas)**
 
-<a href="https://medium.com/@previous-will0071/overthewire-natas-building-a-ctf-mindset-ad1a823ba614"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> OverTheWire Natas: Building a CTF Mindset — **OverTheWire Natas Level 0 → 1**
+<a href="https://medium.com/@previous-will0071/overthewire-natas-building-a-ctf-mindset-ad1a823ba614"><img src="https://img.shields.io/badge/-OverTheWire Natas: Building a CTF Mindset-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 0 → 1**
 
-<a href="https://medium.com/@previous-will0071/overthewire-natas-level-1-level-2-feff2d0663ba"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> Natas Level 1 → 2 — **OverTheWire Natas Level 1 → 2**
+<a href="https://medium.com/@previous-will0071/overthewire-natas-level-1-level-2-feff2d0663ba"><img src="https://img.shields.io/badge/-Natas Level 1 → 2-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 1 → 2**
 
-<a href="https://medium.com/@previous-will0071/nothing-on-this-page-but-what-about-other-pages-b13d9111a117"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> Nothing on This Page! But… What About Other Pages? — **OverTheWire Natas Level 2 → 3**
+<a href="https://medium.com/@previous-will0071/nothing-on-this-page-but-what-about-other-pages-b13d9111a117"><img src="https://img.shields.io/badge/-Nothing on This Page! But… What About Other Pages?-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 2 → 3**
 
-<a href="https://medium.com/@previous-will0071/the-hint-is-hidden-in-plain-sight-so-is-the-secret-0fb20fc76e51"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> The Hint Is Hidden in Plain Sight, So Is the Secret — **OverTheWire Natas Level 3 → 4**
+<a href="https://medium.com/@previous-will0071/the-hint-is-hidden-in-plain-sight-so-is-the-secret-0fb20fc76e51"><img src="https://img.shields.io/badge/-The Hint Is Hidden in Plain Sight, So Is the Secret-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 3 → 4**
 
-<a href="https://medium.com/@previous-will0071/the-referer-that-opened-the-door-f98c846f36b9"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> The Referer That Opened the Door — **OverTheWire Natas Level 4 → 5**
+<a href="https://medium.com/@previous-will0071/the-referer-that-opened-the-door-f98c846f36b9"><img src="https://img.shields.io/badge/-The Referer That Opened the Door-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 4 → 5**
 
-<a href="https://medium.com/@previous-will0071/server-doesnt-own-the-cookies-we-do-a2d80a830dd6"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a> Server Doesn't Own the Cookies, We Do — **OverTheWire Natas Level 5 → 6**
+<a href="https://medium.com/@previous-will0071/server-doesnt-own-the-cookies-we-do-a2d80a830dd6"><img src="https://img.shields.io/badge/-Server Doesn't Own the Cookies, We Do-000000?style=flat-square&logo=medium&logoColor=white" /></a> **OverTheWire Natas Level 5 → 6**
 
 **More Levels are making their way!!!**
 
