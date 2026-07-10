@@ -141,7 +141,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Wazuh-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-333333?style=flat-square" />
-</p>
+</p><br/>
 
 **Threat Detection & Analysis**
 
@@ -153,7 +153,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-Burp%20Suite-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-Metasploit-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-YARA-4b3f72?style=flat-square" />
-</p>
+</p><br/>
 
 **Frameworks & Standards**
 
@@ -165,7 +165,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-DREAD-8a1f2b?style=flat-square" />
 <img src="https://img.shields.io/badge/-CVSS-8a1f2b?style=flat-square" />
 <img src="https://img.shields.io/badge/-CIS%20Benchmarks-8a1f2b?style=flat-square" />
-</p>
+</p><br/>
 
 **Cloud Security**
 
@@ -177,7 +177,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-Security%20Command%20Center-4285F4?style=flat-square" />
 <img src="https://img.shields.io/badge/-GuardDuty%20%2F%20CloudTrail-FF9900?style=flat-square" />
 <img src="https://img.shields.io/badge/-VPC%2FNSG%20Flow%20Logs-333333?style=flat-square" />
-</p>
+</p><br/>
 
 **Networking & Infrastructure**
 
@@ -191,7 +191,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-VLANs%20%2F%20OSPF%20%2F%20BGP%20%2F%20MPLS-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-802.1X%20%2F%20RADIUS%20%2F%20TACACS%2B-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-IPSec%20%2F%20SSL%2FTLS-2c5f2d?style=flat-square" />
-</p>
+</p><br/>
 
 **Identity & Access Management**
 
@@ -199,7 +199,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-Azure%20Entra%20ID-00539c?style=flat-square" />
 <img src="https://img.shields.io/badge/-IAM%20%2F%20RBAC-00539c?style=flat-square" />
 <img src="https://img.shields.io/badge/-Zero%20Trust-00539c?style=flat-square" />
-</p>
+</p><br/>
 
 **Operating Systems & Scripting**
 
@@ -211,7 +211,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-</p>
+</p><br/>
 
 ---
 
@@ -246,12 +246,15 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 
 CTF walkthroughs & incident writeups on Medium — documenting the thinking behind each level, not just the solution.
 
-| Writeup | Topic |
-|---|---|
-| [Building a CTF Mindset](https://medium.com/@akshaykumar_90336/overthewire-natas-building-a-ctf-mindset-ad1a823ba614) | OverTheWire Natas Level 0 → 1 |
-| [Natas Level 1 → 2](https://medium.com/@akshaykumar_90336/overthewire-natas-level-1-level-2-feff2d0663ba) | OverTheWire Natas Level 1 → 2 |
-| [Nothing on This Page! But… What About Other Pages?](https://medium.com/@akshaykumar_90336/nothing-on-this-page-but-what-about-other-pages-b13d9111a117) | OverTheWire Natas Level 2 → 3 |
-| [It Wasn't Maintenance — It Was a Ransom Note](https://medium.com/@akshaykumar_90336/it-wasnt-maintenance-it-was-a-ransom-note-ced2a7f1962c) | Ransomware Breach on Instructure (Canvas) |
+- [It Wasn't Maintenance — It Was a Ransom Note](https://medium.com/@previous-will0071/it-wasnt-maintenance-it-was-a-ransom-note-ced2a7f1962c) — Ransomware Breach on Instructure (Canvas)
+- [OverTheWire Natas: Building a CTF Mindset](https://medium.com/@previous-will0071/overthewire-natas-building-a-ctf-mindset-ad1a823ba614) - OverTheWire Natas Level 0 → 1
+- [Natas Level 1 → 2](https://medium.com/@previous-will0071/overthewire-natas-level-1-level-2-feff2d0663ba) — OverTheWire Natas Level 1 → 2
+- [Nothing on This Page! But… What About Other Pages?](https://medium.com/@previous-will0071/nothing-on-this-page-but-what-about-other-pages-b13d9111a117) — OverTheWire Natas Level 2 → 3
+- [The Hint Is Hidden in Plain Sight, So Is the Secret](https://medium.com/@previous-will0071/the-hint-is-hidden-in-plain-sight-so-is-the-secret-0fb20fc76e51) — OverTheWire Natas Level 3 → 4
+- [The Referer That Opened the Door](https://medium.com/@previous-will0071/the-referer-that-opened-the-door-f98c846f36b9) — OverTheWire Natas Level 4 → 5
+- [Server Doesn't Own the Cookies, We Do](https://medium.com/@previous-will0071/server-doesnt-own-the-cookies-we-do-a2d80a830dd6) — OverTheWire Natas Level 5 → 6
+
+More Levels are making their way!!!
 
 ---
 
