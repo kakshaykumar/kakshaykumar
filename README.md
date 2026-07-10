@@ -95,7 +95,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <tr>
 <td>
 <a href="https://github.com/kakshaykumar/network-security-labs">
-<img src="https://img.shields.io/badge/📡-network--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/network--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
 <td>Nessus vulnerability scanning · Wireshark 5-protocol analysis · NAT/VPN behavior — live environments</td>
