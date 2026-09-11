@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Experience-3%20Yrs%20Enterprise%20Network%20%26%20Security-1a1a2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MS%20AIT-Cybersecurity%2C%20GMU%20'26-1a1a2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MS%20Applied%20IT-Cybersecurity%2C%20GMU%20'26-1a1a2e?style=for-the-badge" />
 </p>
 
 <p>
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/akshaykumar-kathirvelu">
     <img src="https://img.shields.io/badge/LinkedIn-Akshaykumar%20Kathirvelu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@akshaykumar_90336">
+  <a href="https://medium.com/@previous-will0071">
     <img src="https://img.shields.io/badge/Medium-Writeups%20%26%20CTFs-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://akshaykumar-kathirvelu.vercel.app">
@@ -43,6 +43,14 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 
 <table>
 <tr><th align="left">Repository</th><th align="left">What it covers</th></tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/aws-cloudtrail-threat-detection">
+<img src="https://img.shields.io/badge/aws--cloudtrail--threat--detection-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>3 CloudTrail detections (root usage, IAM privilege escalation, log tampering) · CloudWatch metric filters + Sigma rules · 84–208s alert times · incident reconstructed from logs (680 → 11 events)</td>
+</tr>
 <tr>
 <td>
 <a href="https://github.com/kakshaykumar/wireshark-network-threat-investigation">
@@ -93,11 +101,6 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 </tr>
 </table>
 
-**In Progress** *(artifacts will be published)* — academic hands-on projects and assignments:
-- 🔒 Secure Software Development — 6 hands-on security labs
-- 📊 Information Representation, Processing & Visualization — Victim Demographics for Violence Reduction in Chicago
-- 🧮 Data Structures & Algorithms — Shortest Path Computation for Self-Driving Cars (Dijkstra / A*)
-
 ---
 
 ## 💼 Experience
@@ -116,7 +119,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <td>
 <b>Cybersecurity SME Intern (MSSP)</b><br/>
 <sub><i>May 2025 – Aug 2025</i></sub><br/>
-<sub>STRIDE/DREAD threat assessments, SOC validation lab, contributed 3 technical whitepapers, CMMC readiness; healthcare and U.S. State/Local Government clients.</sub>
+<sub>Designed a managed security services package · built the organization's first CMMC compliance framework · STRIDE/DREAD threat modeling · 3 technical whitepapers; 5+ healthcare and government clients.</sub>
 </td>
 </tr>
 <tr>
@@ -124,7 +127,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <td>
 <b>Network Security Engineer, L1 → L2</b><br/>                         
 <sub><i>Sep 2021 – Jul 2024</i></sub><br/>
-<sub>Enterprise incident response across 2,500+ switches/routers and 3,000+ users · Splunk, Qualys, Nessus, Wireshark · 802.1X, RADIUS, TACACS+ hardening.</sub>
+<sub>Enterprise incident response across 2,500+ switches/routers and 3,000+ users · 80% MTTR reduction via Splunk · 200+ Qualys/Nessus vulnerability assessments · 802.1X, RADIUS, TACACS+ hardening.</sub>
 </td>
 </tr>
 </table>
@@ -153,6 +156,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-Burp%20Suite-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-Metasploit-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-YARA-4b3f72?style=flat-square" />
+<img src="https://img.shields.io/badge/-Sigma-4b3f72?style=flat-square" />
 </p><br/>
 
 **Frameworks & Standards**
@@ -175,7 +179,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/-Defender%20for%20Cloud-0078D4?style=flat-square" />
 <img src="https://img.shields.io/badge/-Security%20Command%20Center-4285F4?style=flat-square" />
-<img src="https://img.shields.io/badge/-GuardDuty%20%2F%20CloudTrail-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/-GuardDuty%20%2F%20CloudTrail%20%2F%20CloudWatch-FF9900?style=flat-square" />
 <img src="https://img.shields.io/badge/-VPC%2FNSG%20Flow%20Logs-333333?style=flat-square" />
 </p><br/>
 
@@ -186,9 +190,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-ArubaOS%20CX-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-Aruba%20Central-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-Cisco-2c5f2d?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Arista-2c5f2d?style=flat-square" />
-<img src="https://img.shields.io/badge/-SolarWinds-2c5f2d?style=flat-square" />
-<img src="https://img.shields.io/badge/-VLANs%20%2F%20OSPF%20%2F%20BGP%20%2F%20MPLS-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-VLANs%20%2F%20DHCP%20%2F%20OSPF%20%2F%20BGP-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-802.1X%20%2F%20RADIUS%20%2F%20TACACS%2B-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-IPSec%20%2F%20SSL%2FTLS-2c5f2d?style=flat-square" />
 </p><br/>
@@ -220,6 +222,12 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <p align="left">
   <a href="https://www.credly.com/badges/d88b2215-1296-4816-a415-e126bbbf3f27/public_url">
     <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-E0231B?style=for-the-badge&logo=comptia&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/5c365276-57a6-47d8-b421-26a8c09194cc/public_url">
+    <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/5c9d0700-d5c3-40db-93c1-ad23aafda58a/public_url">
+    <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.credly.com/badges/f3e58365-7489-4fb8-a7d1-b1cf901048ef/public_url">
     <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-0033A0?style=for-the-badge&logo=isc2&logoColor=white" />
@@ -270,12 +278,12 @@ CTF walkthroughs & incident writeups on Medium — documenting the thinking behi
 <img src="https://img.shields.io/badge/🎓-ECE-4b3f72?style=for-the-badge" /> ➜
 <img src="https://img.shields.io/badge/📡-CCNA-4b3f72?style=for-the-badge" /> ➜
 <img src="https://img.shields.io/badge/🌐-HPE--Aruba%20Network%20Security%20(3%20yrs%2C%20L1→L2)-2c5f2d?style=for-the-badge" /> ➜
-<img src="https://img.shields.io/badge/🔐-MS%20AIT%20Cybersecurity%20@%20GMU-00539c?style=for-the-badge" /> ➜
+<img src="https://img.shields.io/badge/🔐-MS%20Applied%20IT%20(Cybersecurity)%20@%20GMU-00539c?style=for-the-badge" /> ➜
 <img src="https://img.shields.io/badge/🛡️-MSSP%20Cybersecurity%20SME%20Intern-8a1f2b?style=for-the-badge" /> ➜
 <img src="https://img.shields.io/badge/👨‍🏫-Graduate%20TA-1a1a2e?style=for-the-badge" />
 
 </div>
-Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterprise infrastructure actually behaves under attack conditions — real customers, real incidents, real production networks. The security thread was always there: VAPT cycles, access control hardening, Splunk log analysis, flagging misconfigurations before they became incidents. That operational foundation is what pushed me toward formalizing the security side at GMU.
+Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterprise infrastructure actually behaves under attack conditions — real customers, real incidents, real production networks. The security thread was always there: vulnerability assessments, access control hardening, Splunk log analysis, flagging misconfigurations before they became incidents. That operational foundation is what pushed me toward formalizing the security side at GMU.
 
 </br>
 
@@ -294,7 +302,7 @@ Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterpr
   <a href="https://www.linkedin.com/in/akshaykumar-kathirvelu">
     <img src="https://img.shields.io/badge/LinkedIn-Akshaykumar%20Kathirvelu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://medium.com/@akshaykumar_90336">
+  <a href="https://medium.com/@previous-will0071">
     <img src="https://img.shields.io/badge/Medium-Writeups%20%26%20CTFs-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/kakshaykumar">
@@ -302,6 +310,6 @@ Three years on the HPE-Aruba TAC team gave me a ground-level view of how enterpr
   </a>
 </p>
 
-**Washington DC–Baltimore Area / Fairfax, VA · Open to full-time roles · Available now**
+**United States · Open to full-time roles · Available now**
 
 </div>
