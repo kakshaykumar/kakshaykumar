@@ -113,53 +113,43 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="45px">👨‍🏫George Mason University</td>
-<td>
-<b>Graduate Teaching Assistant, Information Security</b><br/>
-<sub><i>Aug 2025 – May 2026 · Fairfax, VA</i></sub><br/><br/>
-<sub>
-Supported four Information Security sections across two semesters, working with 200+ students through hands-on attack and defense labs.<br/>
-• Diagnosed broken Kali Linux and Metasploit labs by reading packet captures, Windows Event Logs, and indicators of compromise to find why a payload or reverse shell failed<br/>
-• Wrote lab guides and troubleshooting walkthroughs for 6 security labs each semester, turning recurring fixes into steps students could follow on their own<br/>
-• Explained attack mechanics and detection logic to students meeting them for the first time, in plain language
-</sub>
-</td>
-</tr>
-<tr>
-<td width="45px">🛡️Comtech LLC</td>
-<td>
-<b>Security Analyst (SME Intern) </b><br/>
-<sub><i>May 2025 – Aug 2025 · Reston, VA</i></sub><br/><br/>
-<sub>
-Helped Comtech extend its managed IT services into a managed security offering for 5+ client environments.<br/>
-• Defined the service's alert triage, endpoint monitoring, gap assessment, escalation, and response playbook workflows<br/>
-• Ran NIST-aligned access reviews and SIEM/Microsoft Defender investigations across 500+ devices, uncovering 23+ inactive accounts and 15+ accounts with excessive admin/write privileges<br/>
-• Documented control gaps, supporting evidence, and remediation steps for each finding<br/>
-• Applied STRIDE/DREAD threat modeling and authored 3 technical whitepapers used in a client proposal
-</sub>
-</td>
-</tr>
-<tr>
-<td width="45px">🌐Movate / HPE-Aruba Networking</td>
-<td>
-<b>Network Security Engineer, Tier 1 → Tier 2</b><br/>
-<sub><i>Sep 2021 – Jul 2024 · Chennai, India</i></sub><br/><br/>
-<sub>
-Three years on the HPE-Aruba support team, investigating 90+ network and security incidents a month across 5,000+ devices for 3,000+ customers, promoted from Tier 1 to Tier 2 escalations.<br/>
-• Cut mean time to resolution by 80% by correlating syslog and security-event data in Splunk against Wireshark packet captures<br/>
-• Restored access for 10,000+ users after tracing an OSPF routing mismatch and RADIUS failure to a high-availability node sync fault<br/>
-• Recovered 450+ users and 1,200 devices after a failed firmware upgrade took down a core switch, rolling back the active and standby pair<br/>
-• Diagnosed a BGP ASN mismatch to restore customer WAN connectivity<br/>
-• Resolved 100+ vulnerabilities from 200+ Qualys and Nessus assessments and validated fixes through rescans<br/>
-• Troubleshot 802.1X, RADIUS, TACACS+, IPsec VPN, and firewall/ACL policy across wired and wireless environments, including HPE Aruba Mobility Master<br/>
-• Mentored 20+ Tier 1 engineers on root-cause analysis and automated network backups with Python, PowerShell, and Bash
-</sub>
-</td>
-</tr>
-</table>
+**George Mason University**, Fairfax, VA &nbsp;|&nbsp; *Aug 2025 – May 2026*<br/>
+**Graduate Teaching Assistant, Information Security**
 
+Supported four undergraduate Information Security sections across two semesters, guiding 200+ students through hands-on attack and defense labs and helping them work through technical issues so they could complete exercises on time.
+
+- Troubleshot Kali Linux and Metasploit lab failures, using packet captures, Windows Event Logs, and indicators of compromise to identify why a payload or reverse shell did not work.
+- Guided students through payload generation, listener configuration, and Meterpreter sessions during exploitation exercises.
+- Created lab guides and troubleshooting walkthroughs for 6 security labs each semester, turning recurring fixes into steps students could follow on their own and reducing repeat questions.
+
+<br/>
+
+**Comtech LLC**, Reston, VA &nbsp;|&nbsp; *May 2025 – Aug 2025*<br/>
+**Security Analyst**
+
+Supported Comtech's move from managed IT services to a standardized managed security (MSSP) offering across 5+ client environments, contributing to service design, access-control assessments, threat modeling, and client-facing deliverables.
+
+- Defined alert triage, endpoint monitoring, gap assessment, escalation, and response playbook workflows for the new managed security service.
+- Identified 23+ inactive accounts and 15+ accounts with excessive admin/write privileges across 500+ devices through NIST-aligned gap assessments and SIEM/Defender investigations.
+- Documented control gaps, supporting evidence, and remediation steps to reduce access-control exposure.
+- Applied STRIDE and DREAD methodologies to evaluate threats and risks across client security requirements.
+- Authored 3 technical whitepapers used in a client proposal.
+
+<br/>
+
+**Movate (HPE-Aruba Networking)**, Chennai, India &nbsp;|&nbsp; *Sep 2021 – Jul 2024*<br/>
+**Network Security Engineer**, *Tier 1 → Tier 2*
+
+Advanced from Tier 1 to Tier 2 supporting HPE-Aruba Networking customers across 5,000+ network devices and 3,000+ customers, investigating 90+ network and security incidents monthly with at least one priority escalation daily. Mentored 20+ Tier 1 engineers on root-cause analysis, incident investigation, and network hardening.
+
+- Reduced MTTR by 80%, from hours to minutes, by correlating centralized syslog and security-event data in Splunk against Wireshark packet captures.
+- Restored network access for 10,000+ users by tracing an OSPF routing-table mismatch and RADIUS authentication failure to a high-availability node sync fault on HPE Comware switches.
+- Restored connectivity for 450+ users and 1,200 devices after a failed firmware upgrade took a core switch offline, rolling back the active and standby pair.
+- Diagnosed and corrected a BGP ASN mismatch to restore customer WAN connectivity.
+- Isolated DHCP lease failures and intermittent connectivity by working through endpoint, switch port, VLAN, and interface error counters to the root cause.
+- Completed 200+ vulnerability assessments using Qualys and Nessus, prioritizing findings by severity and exploitability and resolving 100+ vulnerabilities, with remediation validated through rescans.
+- Implemented and troubleshot 802.1X, RADIUS, IPsec VPNs, and firewall/ACL policies across HPE Comware, ArubaOS-CX, and Aruba Mobility Master environments.
+- Automated recurring network operations with Python, PowerShell, and Bash for backups, configuration changes, and log collection.
 ---
 
 ## 🛠️ Technical Skills
