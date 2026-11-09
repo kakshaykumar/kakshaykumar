@@ -127,16 +127,20 @@ Advanced from Tier 1 to Tier 2 supporting HPE-Aruba Networking customers across 
 
 ## 🛠️ Technical Skills
 
-**Security Monitoring & SIEM**
+**SIEM & Security Operations**
 
 <p>
-<img src="https://img.shields.io/badge/-Splunk-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/-SPL%20Queries-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/-KQL-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Splunk%20(SPL)-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel%20(KQL)-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Defender%20for%20Endpoint%20(EDR)-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Wazuh-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-HPE%20IMC-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Incident%20Response-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Alert%20Triage-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Log%20Analysis-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Threat%20Hunting-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Detection%20Engineering-333333?style=flat-square" />
 </p><br/>
 
 **Threat Detection & Analysis**
@@ -148,6 +152,7 @@ Advanced from Tier 1 to Tier 2 supporting HPE-Aruba Networking customers across 
 <img src="https://img.shields.io/badge/-Nmap-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-Burp%20Suite-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-Metasploit-4b3f72?style=flat-square" />
+<img src="https://img.shields.io/badge/-Hydra-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-YARA-4b3f72?style=flat-square" />
 <img src="https://img.shields.io/badge/-Sigma-4b3f72?style=flat-square" />
 </p><br/>
@@ -156,42 +161,52 @@ Advanced from Tier 1 to Tier 2 supporting HPE-Aruba Networking customers across 
 
 <p>
 <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-NIST-8a1f2b?style=flat-square" />
 <img src="https://img.shields.io/badge/-NIST%20IR%20Lifecycle-8a1f2b?style=flat-square" />
-<img src="https://img.shields.io/badge/-OWASP%20Top%2010-8a1f2b?style=flat-square" />
-<img src="https://img.shields.io/badge/-STRIDE-8a1f2b?style=flat-square" />
-<img src="https://img.shields.io/badge/-DREAD-8a1f2b?style=flat-square" />
-<img src="https://img.shields.io/badge/-CVSS-8a1f2b?style=flat-square" />
 <img src="https://img.shields.io/badge/-CIS%20Benchmarks-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-OWASP%20Top%2010-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-STRIDE%20%2F%20DREAD-8a1f2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-CVSS-8a1f2b?style=flat-square" />
 </p><br/>
 
-**Cloud Security**
+**Cloud Security & IaC**
 
 <p>
-<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-CloudTrail%20%2F%20CloudWatch-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/-GuardDuty%20%2F%20Security%20Hub-FF9900?style=flat-square" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Defender%20for%20Cloud-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/-Security%20Command%20Center-4285F4?style=flat-square" />
-<img src="https://img.shields.io/badge/-GuardDuty%20%2F%20CloudTrail%20%2F%20CloudWatch-FF9900?style=flat-square" />
-<img src="https://img.shields.io/badge/-VPC%2FNSG%20Flow%20Logs-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%20Command%20Center%20%2F%20Cloud%20Logging-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/-VPC%20Flow%20Logs-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-CSPM-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-CloudFormation-FF4F8B?style=flat-square" />
 </p><br/>
 
-**Networking & Infrastructure**
+**Network Security & Infrastructure**
 
 <p>
+<img src="https://img.shields.io/badge/-Firewall%20%26%20ACL%20Policies-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-FortiGate%20%2F%20Cisco%20NGFW-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-802.1X%20%2F%20RADIUS%20%2F%20TACACS%2B-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-Network%20Access%20Control-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-IPsec%20VPN%20%2F%20SSL%2FTLS-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-HPE%20Comware-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-ArubaOS%20CX-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-Aruba%20Mobility%20Master-2c5f2d?style=flat-square" />
 <img src="https://img.shields.io/badge/-Aruba%20Central-2c5f2d?style=flat-square" />
-<img src="https://img.shields.io/badge/-Cisco-2c5f2d?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-VLANs%20%2F%20DHCP%20%2F%20OSPF%20%2F%20BGP-2c5f2d?style=flat-square" />
-<img src="https://img.shields.io/badge/-802.1X%20%2F%20RADIUS%20%2F%20TACACS%2B-2c5f2d?style=flat-square" />
-<img src="https://img.shields.io/badge/-IPSec%20%2F%20SSL%2FTLS-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-TCP%2FIP%20%2F%20DNS%20%2F%20DHCP-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-VLANs%20%2F%20STP%20%2F%20LAN%2FWAN-2c5f2d?style=flat-square" />
+<img src="https://img.shields.io/badge/-OSPF%20%2F%20BGP-2c5f2d?style=flat-square" />
 </p><br/>
 
 **Identity & Access Management**
 
 <p>
 <img src="https://img.shields.io/badge/-Azure%20Entra%20ID-00539c?style=flat-square" />
+<img src="https://img.shields.io/badge/-Active%20Directory-00539c?style=flat-square" />
 <img src="https://img.shields.io/badge/-IAM%20%2F%20RBAC-00539c?style=flat-square" />
 <img src="https://img.shields.io/badge/-Zero%20Trust-00539c?style=flat-square" />
 </p><br/>
