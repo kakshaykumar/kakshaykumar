@@ -36,78 +36,53 @@ Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible
 </div>
 
 ---
-
 ## 🗂️ Portfolio
 
-Real tools, real findings, real artifacts — built across coursework and independent research.
+Hands-on security work with real evidence: detections that were tested, attacks that were captured, and findings anyone can open and check.
 
-<table>
-<tr><th align="left">Repository</th><th align="left">What you'll find inside</th></tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/aws-cloudtrail-threat-detection">
-<img src="https://img.shields.io/badge/aws--cloudtrail--threat--detection-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>A full attack-to-response exercise in a live AWS account. Three Sigma rules and their CloudWatch metric filters, Athena hunting queries, a timeline-based investigation report checked against a separate ground-truth record, a severity-ranked detection coverage assessment, raw CloudTrail evidence, and 28 screenshots of the alerting, investigation, and containment steps.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/microsoft-defender-threat-hunting">
-<img src="https://img.shields.io/badge/microsoft--defender--threat--hunting-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>A threat hunt for activity Defender for Endpoint never alerted on. Six KQL hunting queries built step by step from device identity to a correlated timeline, the final custom detection rule, CSV exports proving the rule matched, and an INC-001 incident report written the way a SOC would hand it off.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/wireshark-network-threat-investigation">
-<img src="https://img.shields.io/badge/wireshark--network--threat--investigation-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>Packet-level investigations of reconnaissance, credential attacks, and protocol weaknesses from a Kali/Ubuntu lab. Every scenario ships with its original .pcapng file so findings can be re-checked in Wireshark, along with a written analysis, an ATT&CK technique map, and a reusable detection filter reference.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/cloud-security-iaas">
-<img src="https://img.shields.io/badge/cloud--security--iaas-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>A side-by-side review of what Azure and GCP leave exposed out of the box. Separate comparisons for VM configuration, storage, key management, and logging, a CIS/NIST hardening checklist, and the full written report and presentation.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/network-security-labs">
-<img src="https://img.shields.io/badge/network--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>Three labs run against live environments rather than prebuilt VMs: a Nessus scan with each finding scored and contextualized, a Wireshark capture across five protocols, and a before-and-after look at how NAT and VPN change what the outside world sees.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/malware-progression-detection">
-<img src="https://img.shields.io/badge/malware--progression--detection-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>Research into how malware evolved to evade detection, from polymorphic code to fileless attacks. A malware taxonomy, a comparison of signature, behavior, and ML-based detection, YARA rules, a hybrid detection architecture, and the full research paper.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/identity-theft-research">
-<img src="https://img.shields.io/badge/identity--theft--research-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>Breach case studies of Equifax, Cambridge Analytica, and T-Mobile, each traced from attack vector to business impact. An identity theft lifecycle diagram, an IAM controls reference, and a STRIDE threat model of the Equifax breach.</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/applied-security-labs">
-<img src="https://img.shields.io/badge/applied--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>Two hands-on labs with working artifacts. An annotated SQL injection that manipulates bank balances, with an explanation of the fix, and an RSA-2048 keypair with an encrypted file you can decrypt yourself in OpenSSL.</td>
-</tr>
-</table>
+### ⭐ Featured
+
+### 🔎 [AWS CloudTrail Threat Detection](https://github.com/kakshaykumar/aws-cloudtrail-threat-detection)
+`AWS CloudTrail` `CloudWatch` `Sigma` `Athena` `MITRE ATT&CK` `Incident Response`
+
+A full attack-to-response exercise in a live AWS account. Three Sigma rules and their CloudWatch metric filters, Athena hunting queries, a timeline-based investigation report checked against a separate ground-truth record, a severity-ranked detection coverage assessment, raw CloudTrail evidence, and 28 screenshots of the alerting, investigation, and containment steps.
+
+### 🛡️ [Microsoft Defender Threat Hunting & Detection](https://github.com/kakshaykumar/microsoft-defender-threat-hunting)
+`Defender for Endpoint` `KQL` `Threat Hunting` `Custom Detection` `MITRE ATT&CK`
+
+A threat hunt for activity Defender for Endpoint never alerted on. Six KQL hunting queries built step by step from device identity to a correlated timeline, the final custom detection rule, CSV exports proving the rule matched, and an INC-001 incident report written the way a SOC would hand it off.
+
+### 📡 [Wireshark Network Threat Investigation](https://github.com/kakshaykumar/wireshark-network-threat-investigation)
+`Wireshark` `Kali Linux` `Nmap` `Hydra` `MITRE ATT&CK`
+
+Packet-level investigations of reconnaissance, credential attacks, and protocol weaknesses from a Kali/Ubuntu lab. Every scenario ships with its original .pcapng file so findings can be re-checked in Wireshark, along with a written analysis, an ATT&CK technique map, and a reusable detection filter reference.
+
+---
+
+### ☁️ [Cloud Security Assessment: Azure vs GCP](https://github.com/kakshaykumar/cloud-security-iaas)
+`Azure` `GCP` `CIS Benchmarks` `NIST`
+
+A side-by-side review of what Azure and GCP leave exposed out of the box. Separate comparisons for VM configuration, storage, key management, and logging, a CIS/NIST hardening checklist, and the full written report and presentation.
+
+### 🌐 [Network Security Labs](https://github.com/kakshaykumar/network-security-labs)
+`Nessus` `Wireshark` `CVSS` `NAT/VPN`
+
+Three labs run against live environments rather than prebuilt VMs: a Nessus scan with each finding scored and contextualized, a Wireshark capture across five protocols, and a before-and-after look at how NAT and VPN change what the outside world sees.
+
+### 🦠 [Malware Progression & Detection](https://github.com/kakshaykumar/malware-progression-detection)
+`YARA` `MITRE ATT&CK` `Detection Research`
+
+Research into how malware evolved to evade detection, from polymorphic code to fileless attacks. A malware taxonomy, a comparison of signature, behavior, and ML-based detection, YARA rules, a hybrid detection architecture, and the full research paper.
+
+### 🪪 [Identity Theft Research](https://github.com/kakshaykumar/identity-theft-research)
+`IAM` `STRIDE` `Zero Trust` `MFA`
+
+Breach case studies of Equifax, Cambridge Analytica, and T-Mobile, each traced from attack vector to business impact. An identity theft lifecycle diagram, an IAM controls reference, and a STRIDE threat model of the Equifax breach.
+
+### 🔐 [Applied Security Labs](https://github.com/kakshaykumar/applied-security-labs)
+`SQL Injection` `OWASP Top 10` `OpenSSL` `RSA-2048`
+
+Two hands-on labs with working artifacts. An annotated SQL injection that manipulates bank balances, with an explanation of the fix, and an RSA-2048 keypair with an encrypted file you can decrypt yourself in OpenSSL.
 
 ---
 
