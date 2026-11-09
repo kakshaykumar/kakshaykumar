@@ -40,8 +40,6 @@ Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible
 
 Hands-on security work with real evidence: detections that were tested, attacks that were captured, and findings anyone can open and check.
 
-### ⭐ Featured
-
 ### 🔎 [AWS CloudTrail Threat Detection](https://github.com/kakshaykumar/aws-cloudtrail-threat-detection)
 `AWS CloudTrail` `CloudWatch` `Sigma` `Athena` `MITRE ATT&CK` `Incident Response`
 
