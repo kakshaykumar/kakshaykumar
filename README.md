@@ -2,7 +2,7 @@
 
 # Akshaykumar Kathirvelu
 
-### Cybersecurity Professional · SOC Analyst · Security Operations · Cloud Security
+### Cybersecurity Professional · Security Engineer · Network Security · Cloud Security
 
 <p>
   <img src="https://img.shields.io/badge/Experience-3%20Yrs%20Enterprise%20Network%20%26%20Security-1a1a2e?style=for-the-badge" />
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-**Target Roles:** SOC Analyst · Security Operations · Network Security · Cloud Security
+**Target Roles:** Security Engineer · Network Security · Cloud Security
 📍 United States — Open to Relocation
 Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible
 
@@ -42,14 +42,22 @@ Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible
 Real tools, real findings, real artifacts — built across coursework and independent research.
 
 <table>
-<tr><th align="left">Repository</th><th align="left">What it covers</th></tr>
+<tr><th align="left">Repository</th><th align="left">What you'll find inside</th></tr>
 <tr>
 <td>
 <a href="https://github.com/kakshaykumar/aws-cloudtrail-threat-detection">
 <img src="https://img.shields.io/badge/aws--cloudtrail--threat--detection-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
-<td>3 CloudTrail detections (root usage, IAM privilege escalation, log tampering) · CloudWatch metric filters + Sigma rules · 84–208s alert times · incident reconstructed from logs (680 → 11 events)</td>
+<td>A full attack-to-response exercise in a live AWS account. Three Sigma rules and their CloudWatch metric filters, Athena hunting queries, a timeline-based investigation report checked against a separate ground-truth record, a severity-ranked detection coverage assessment, raw CloudTrail evidence, and 28 screenshots of the alerting, investigation, and containment steps.</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/microsoft-defender-threat-hunting">
+<img src="https://img.shields.io/badge/microsoft--defender--threat--hunting-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>A threat hunt for activity Defender for Endpoint never alerted on. Six KQL hunting queries built step by step from device identity to a correlated timeline, the final custom detection rule, CSV exports proving the rule matched, and an INC-001 incident report written the way a SOC would hand it off.</td>
 </tr>
 <tr>
 <td>
@@ -57,15 +65,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/wireshark--network--threat--investigation-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
-<td>12 attack scenarios · 24 real .pcapng captures · MITRE ATT&CK mapped · detection thresholds documented</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/applied-security-labs">
-<img src="https://img.shields.io/badge/applied--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>SQL injection with annotated attack code · RSA-2048 with real <code>.pem</code> keypair and verifiable <code>.enc</code> artifact</td>
+<td>Packet-level investigations of reconnaissance, credential attacks, and protocol weaknesses from a Kali/Ubuntu lab. Every scenario ships with its original .pcapng file so findings can be re-checked in Wireshark, along with a written analysis, an ATT&CK technique map, and a reusable detection filter reference.</td>
 </tr>
 <tr>
 <td>
@@ -73,23 +73,7 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/cloud--security--iaas-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
-<td>Azure vs GCP default IaaS security review · IAM/logging gaps · CIS v3.0.0 / NIST hardening checklist</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/malware-progression-detection">
-<img src="https://img.shields.io/badge/malware--progression--detection-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>Malware evolution analysis · YARA detection rules (ransomware, fileless T1059.001, APT T1021)</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/kakshaykumar/identity-theft-research">
-<img src="https://img.shields.io/badge/identity--theft--research-24292e?style=flat-square&logo=github&logoColor=white" />
-</a>
-</td>
-<td>Equifax / Cambridge Analytica / T-Mobile breach analysis · IAM controls · MFA strategy · STRIDE modeling</td>
+<td>A side-by-side review of what Azure and GCP leave exposed out of the box. Separate comparisons for VM configuration, storage, key management, and logging, a CIS/NIST hardening checklist, and the full written report and presentation.</td>
 </tr>
 <tr>
 <td>
@@ -97,7 +81,31 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/network--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
 </a>
 </td>
-<td>Nessus vulnerability scanning · Wireshark 5-protocol analysis · NAT/VPN behavior — live environments</td>
+<td>Three labs run against live environments rather than prebuilt VMs: a Nessus scan with each finding scored and contextualized, a Wireshark capture across five protocols, and a before-and-after look at how NAT and VPN change what the outside world sees.</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/malware-progression-detection">
+<img src="https://img.shields.io/badge/malware--progression--detection-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>Research into how malware evolved to evade detection, from polymorphic code to fileless attacks. A malware taxonomy, a comparison of signature, behavior, and ML-based detection, YARA rules, a hybrid detection architecture, and the full research paper.</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/identity-theft-research">
+<img src="https://img.shields.io/badge/identity--theft--research-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>Breach case studies of Equifax, Cambridge Analytica, and T-Mobile, each traced from attack vector to business impact. An identity theft lifecycle diagram, an IAM controls reference, and a STRIDE threat model of the Equifax breach.</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/kakshaykumar/applied-security-labs">
+<img src="https://img.shields.io/badge/applied--security--labs-24292e?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td>Two hands-on labs with working artifacts. An annotated SQL injection that manipulates bank balances, with an explanation of the fix, and an RSA-2048 keypair with an encrypted file you can decrypt yourself in OpenSSL.</td>
 </tr>
 </table>
 
@@ -109,25 +117,45 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <tr>
 <td width="45px">👨‍🏫George Mason University</td>
 <td>
-<b>Graduate Teaching Assistant</b><br/>                                
-<sub><i>Aug 2025 – May 2026</i></sub><br/>
-<sub>Mentored 200+ students through Information Security; labs, office hours, and graded assessments.</sub>
+<b>Graduate Teaching Assistant, Information Security</b><br/>
+<sub><i>Aug 2025 – May 2026 · Fairfax, VA</i></sub><br/><br/>
+<sub>
+Supported four Information Security sections across two semesters, working with 200+ students through hands-on attack and defense labs.<br/>
+• Diagnosed broken Kali Linux and Metasploit labs by reading packet captures, Windows Event Logs, and indicators of compromise to find why a payload or reverse shell failed<br/>
+• Wrote lab guides and troubleshooting walkthroughs for 6 security labs each semester, turning recurring fixes into steps students could follow on their own<br/>
+• Explained attack mechanics and detection logic to students meeting them for the first time, in plain language
+</sub>
 </td>
 </tr>
 <tr>
 <td width="45px">🛡️Comtech LLC</td>
 <td>
-<b>Cybersecurity SME Intern (MSSP)</b><br/>
-<sub><i>May 2025 – Aug 2025</i></sub><br/>
-<sub>Designed a managed security services package · built the organization's first CMMC compliance framework · STRIDE/DREAD threat modeling · 3 technical whitepapers; 5+ healthcare and government clients.</sub>
+<b>Security Analyst (SME Intern) </b><br/>
+<sub><i>May 2025 – Aug 2025 · Reston, VA</i></sub><br/><br/>
+<sub>
+Helped Comtech extend its managed IT services into a managed security offering for 5+ client environments.<br/>
+• Defined the service's alert triage, endpoint monitoring, gap assessment, escalation, and response playbook workflows<br/>
+• Ran NIST-aligned access reviews and SIEM/Microsoft Defender investigations across 500+ devices, uncovering 23+ inactive accounts and 15+ accounts with excessive admin/write privileges<br/>
+• Documented control gaps, supporting evidence, and remediation steps for each finding<br/>
+• Applied STRIDE/DREAD threat modeling and authored 3 technical whitepapers used in a client proposal
+</sub>
 </td>
 </tr>
 <tr>
 <td width="45px">🌐Movate / HPE-Aruba Networking</td>
 <td>
-<b>Network Security Engineer, L1 → L2</b><br/>                         
-<sub><i>Sep 2021 – Jul 2024</i></sub><br/>
-<sub>Enterprise incident response across 2,500+ switches/routers and 3,000+ users · 80% MTTR reduction via Splunk · 200+ Qualys/Nessus vulnerability assessments · 802.1X, RADIUS, TACACS+ hardening.</sub>
+<b>Network Security Engineer, Tier 1 → Tier 2</b><br/>
+<sub><i>Sep 2021 – Jul 2024 · Chennai, India</i></sub><br/><br/>
+<sub>
+Three years on the HPE-Aruba support team, investigating 90+ network and security incidents a month across 5,000+ devices for 3,000+ customers, promoted from Tier 1 to Tier 2 escalations.<br/>
+• Cut mean time to resolution by 80% by correlating syslog and security-event data in Splunk against Wireshark packet captures<br/>
+• Restored access for 10,000+ users after tracing an OSPF routing mismatch and RADIUS failure to a high-availability node sync fault<br/>
+• Recovered 450+ users and 1,200 devices after a failed firmware upgrade took down a core switch, rolling back the active and standby pair<br/>
+• Diagnosed a BGP ASN mismatch to restore customer WAN connectivity<br/>
+• Resolved 100+ vulnerabilities from 200+ Qualys and Nessus assessments and validated fixes through rescans<br/>
+• Troubleshot 802.1X, RADIUS, TACACS+, IPsec VPN, and firewall/ACL policy across wired and wireless environments, including HPE Aruba Mobility Master<br/>
+• Mentored 20+ Tier 1 engineers on root-cause analysis and automated network backups with Python, PowerShell, and Bash
+</sub>
 </td>
 </tr>
 </table>
@@ -142,6 +170,8 @@ Real tools, real findings, real artifacts — built across coursework and indepe
 <img src="https://img.shields.io/badge/-Splunk-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-SPL%20Queries-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-KQL-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Wazuh-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-333333?style=flat-square" />
 </p><br/>
@@ -277,9 +307,9 @@ CTF walkthroughs & incident writeups on Medium — documenting the thinking behi
 <div align="center">
 <img src="https://img.shields.io/badge/🎓-ECE-4b3f72?style=for-the-badge" /> ➜
 <img src="https://img.shields.io/badge/📡-CCNA-4b3f72?style=for-the-badge" /> ➜
-<img src="https://img.shields.io/badge/🌐-HPE--Aruba%20Network%20Security%20(3%20yrs%2C%20L1→L2)-2c5f2d?style=for-the-badge" /> ➜
+<img src="https://img.shields.io/badge/🌐-HPE--Aruba%20Network%20Security%20(3%20yrs%2C%20Tier%201→Tier%202)-2c5f2d?style=for-the-badge" /> ➜
 <img src="https://img.shields.io/badge/🔐-MS%20Applied%20IT%20(Cybersecurity)%20@%20GMU-00539c?style=for-the-badge" /> ➜
-<img src="https://img.shields.io/badge/🛡️-MSSP%20Cybersecurity%20SME%20Intern-8a1f2b?style=for-the-badge" /> ➜
+<img src="https://img.shields.io/badge/🛡️-Security%20Analyst%20(SME Intern)-8a1f2b?style=for-the-badge" /> ➜
 <img src="https://img.shields.io/badge/👨‍🏫-Graduate%20TA-1a1a2e?style=for-the-badge" />
 
 </div>
