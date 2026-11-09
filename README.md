@@ -24,7 +24,7 @@
   <a href="https://medium.com/@previous-will0071">
     <img src="https://img.shields.io/badge/Medium-Writeups%20%26%20CTFs-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://akshaykumar-kathirvelu.vercel.app">
+  <a href="https://akshaykumar-kathirvelu-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6B7CE8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
