@@ -2,7 +2,7 @@
 
 # Akshaykumar Kathirvelu
 
-### Cybersecurity Professional · Security Engineer · Network Security · Cloud Security
+### Cybersecurity Professional · Security Engineer · Security Analyst · Network Security · Cloud Security
 
 <p>
   <img src="https://img.shields.io/badge/Experience-3%20Yrs%20Enterprise%20Network%20%26%20Security-1a1a2e?style=for-the-badge" />
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-**Target Roles:** Security Engineer · Network Security · Cloud Security
+**Target Roles:** Security Engineer · Security Analyst · Network Security · Cloud Security
 📍 United States — Open to Relocation
 Authorized to work in the U.S. | F-1 OPT / STEM OPT eligible
 
